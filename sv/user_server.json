@@ -325,5 +325,12 @@
     "326": "Den angivna webbadressen är ogiltig. En URL måste formateras korrekt och returnera en 200 HTTP-kod. Omdirigeringar är förbjudna.",
     "327": "Väntande ändringar",
     "328": "En eller flera ändringar av servern väntar. Ändringar kan bearbetas genom att utföra en omstart, avstängning eller startåtgärd från den här kontrollpanelen.",
-    "329": "Inaktivera VNC."
+    "329": "Inaktivera VNC.",
+    "330": "Ersättning",
+    "331": "Utgående",
+    "332": "Inkommande",
+    "333": "Hastighet",
+    "334": "Totalt",
+    "335": "Systemet",
+    "336": "Lastare"
 }

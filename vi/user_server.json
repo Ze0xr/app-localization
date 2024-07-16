@@ -325,5 +325,12 @@
     "326": "URL được cung cấp không hợp lệ. URL phải được định dạng chính xác và trả về mã HTTP 200. Chuyển hướng bị cấm.",
     "327": "Thay đổi đang chờ xử lý",
     "328": "Một hoặc nhiều thay đổi đối với máy chủ đang chờ xử lý. Các thay đổi có thể được xử lý bằng cách thực hiện hành động Khởi động lại, Tắt máy hoặc Khởi động từ bảng điều khiển này.",
-    "329": "Vô hiệu hóa VNC."
+    "329": "Vô hiệu hóa VNC.",
+    "330": "Trợ cấp",
+    "331": "Xuất cảnh",
+    "332": "Trong nước",
+    "333": "Tốc độ",
+    "334": "Tổng",
+    "335": "Hệ thống",
+    "336": "Máy xúc lật"
 }

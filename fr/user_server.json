@@ -325,5 +325,12 @@
     "326": "L'URL fournie n'est pas valide. Une URL doit être formatée correctement et renvoyer un code HTTP 200. Les redirections sont interdites.",
     "327": "Changements en cours",
     "328": "Une ou plusieurs modifications du serveur sont en attente. Les modifications peuvent être traitées en lançant une action de redémarrage, d'arrêt ou de démarrage à partir de ce panneau de contrôle.",
-    "329": "Désactivation de VNC."
+    "329": "Désactivation de VNC.",
+    "330": "Allocation",
+    "331": "Sortie",
+    "332": "Inbound",
+    "333": "Vitesse",
+    "334": "Total",
+    "335": "Système",
+    "336": "Chargeur"
 }

@@ -325,5 +325,12 @@
     "326": "Zadaná adresa URL je neplatná. Adresa URL musí byť správne naformátovaná a musí vracať kód HTTP 200. Presmerovanie je zakázané.",
     "327": "Čakajúce zmeny",
     "328": "Čaká sa na jednu alebo viacero zmien na serveri. Zmeny možno spracovať vydaním akcie Reštart, Vypnutie alebo Zavedenie z tohto ovládacieho panela.",
-    "329": "Zakázanie VNC."
+    "329": "Zakázanie VNC.",
+    "330": "Príspevok",
+    "331": "Odchádzajúci",
+    "332": "Prichádzajúce",
+    "333": "Rýchlosť",
+    "334": "Celkom",
+    "335": "Systém",
+    "336": "Nakladač"
 }

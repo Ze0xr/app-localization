@@ -325,5 +325,12 @@
     "326": "Die angegebene URL ist ungültig. Eine URL muss korrekt formatiert sein und einen 200 HTTP-Code zurückgeben. Umleitungen sind verboten.",
     "327": "Anstehende Änderungen",
     "328": "Es stehen eine oder mehrere Änderungen am Server an, die durch einen Neustart, einen Shutdown oder einen Bootvorgang über dieses Bedienfeld verarbeitet werden können.",
-    "329": "VNC deaktivieren."
+    "329": "VNC deaktivieren.",
+    "330": "Erlaubnis",
+    "331": "Ausgehend von",
+    "332": "Eingehend",
+    "333": "Geschwindigkeit",
+    "334": "Insgesamt",
+    "335": "System",
+    "336": "Lader"
 }

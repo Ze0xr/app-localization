@@ -325,5 +325,12 @@
     "326": "Isporučeni URL je nevažeći. URL mora biti pravilno formatiran i vratiti 200 HTTP koda. Preusmjeravanja su zabranjena.",
     "327": "Promjene na čekanju",
     "328": "Čeka se jedna ili više promjena na poslužitelju. Promjene se mogu obraditi izdavanjem radnje Ponovno pokretanje, isključivanje ili pokretanje s ove upravljačke ploče.",
-    "329": "Onemogućavanje VNC-a."
+    "329": "Onemogućavanje VNC-a.",
+    "330": "Naknada",
+    "331": "Odlazni",
+    "332": "Ulazni",
+    "333": "Brzina",
+    "334": "Ukupno",
+    "335": "Sustav",
+    "336": "Utovarivač"
 }

@@ -325,5 +325,12 @@
     "326": "Den angivne URL er ugyldig. En URL skal være korrekt formateret og returnere en 200 HTTP-kode. Omdirigeringer er forbudt.",
     "327": "Ventende Ændringer",
     "328": "En eller flere ændringer til serveren er ventende. Ændringer kan behandles ved at udstede en Genstart, Luk Ned eller Boot handling fra dette kontrolpanel.",
-    "329": "Deaktiverer VNC."
+    "329": "Deaktiverer VNC.",
+    "330": "Tillæg",
+    "331": "Udgående",
+    "332": "Indgående",
+    "333": "Hastighed",
+    "334": "I alt",
+    "335": "System",
+    "336": "Læsser"
 }

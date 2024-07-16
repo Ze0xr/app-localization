@@ -325,5 +325,12 @@
     "326": "La URL suministrada no es válida. Una URL debe estar formateada correctamente y devolver un código HTTP 200. Las redirecciones están prohibidas.",
     "327": "Cambios pendientes",
     "328": "Hay uno o más cambios pendientes en el servidor. Los cambios pueden procesarse emitiendo una acción de Reinicio, Apagado o Arranque desde este panel de control.",
-    "329": "Desactivación de VNC."
+    "329": "Desactivación de VNC.",
+    "330": "Asignación",
+    "331": "Salida",
+    "332": "Entrada",
+    "333": "Velocidad",
+    "334": "Total",
+    "335": "Sistema",
+    "336": "Cargador"
 }

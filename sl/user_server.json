@@ -325,5 +325,12 @@
     "326": "Navedeni URL je neveljaven. URL mora biti pravilno oblikovan in vrniti kodo HTTP 200. Preusmeritve so prepovedane.",
     "327": "Spremembe v obravnavi",
     "328": "Čaka se na eno ali več sprememb strežnika. Spremembe je mogoče obdelati tako, da iz te nadzorne plošče izdate akcijo Ponovni zagon, Izklop ali Zagon.",
-    "329": "Onemogočanje VNC."
+    "329": "Onemogočanje VNC.",
+    "330": "Nadomestilo",
+    "331": "Odhodni",
+    "332": "Vhodna stran",
+    "333": "Hitrost",
+    "334": "Skupaj",
+    "335": "Sistem",
+    "336": "Nakladalnik"
 }
