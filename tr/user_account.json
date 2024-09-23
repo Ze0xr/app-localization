@@ -56,5 +56,11 @@
     "57": "Yeni şifreyi onayla yeni şifreyle eşleşmiyor.",
     "15": "Sunucularınızdan herhangi biri yedeklemeleri destekliyorsa, bir yedekleme başarıyla tamamlandığında bir e-posta bildirimi alırsınız.",
     "17": "Sunucularınızdan herhangi biri yedeklemeleri destekliyorsa, bir yedekleme tamamlanamazsa veya yedekleme işlemi sırasında bir hata oluşursa bir e-posta bildirimi alırsınız.",
-    "18": "Profil Ayarlarını Güncelle"
+    "18": "Profil Ayarlarını Güncelle",
+    "58": "Hesabınızın güvenliğini sağlamak için, devam etmeden önce iki faktörlü kimlik doğrulamayı etkinleştirmeniz gerekir. Sistemimiz, zamana dayalı tek seferlik şifreler oluşturmak için Google Authenticator veya Authy gibi uygulamaları kullanmanıza olanak tanıyan TOTP uygulama tabanlı iki faktörlü kimlik doğrulamayı destekler. Ayrıca, güvenli tek seferlik şifreler oluşturmak için bir YubiKey cihazı kullanmanıza olanak tanıyan YubiKey OTP kimlik doğrulamasını da destekliyoruz.",
+    "59": "Bu sistem, iki faktörlü kimlik doğrulamanın her zaman etkin olmasını gerektirir. Devre dışı bırakırsanız, hesabınıza tam erişimi yeniden kazanmak için iki faktörlü kimlik doğrulamayı yeniden etkinleştirmeniz gerekecektir.",
+    "60": "Uygulama tarafından oluşturulan altı haneli kodu aşağıdaki alana girin.",
+    "61": "Tek seferlik yedekleme kodlarınızın bir kopyasını almanız önemlidir. Bu kodlar, iki faktörlü kimlik doğrulama cihazınıza erişiminizi kaybetmeniz durumunda hesabınıza erişmek için gereklidir. Lütfen bunları güvenli bir yerde saklayın.",
+    "62": "İptal",
+    "63": "İki faktörlü kimlik doğrulamayı devre dışı bırakmak istediğinizden emin misiniz? Bu güvenlik özelliği, hesabınız için ek bir koruma katmanı sağlar. Devre dışı bırakma işlemine devam ederseniz, hesabınız daha az güvenli olacaktır."
 }

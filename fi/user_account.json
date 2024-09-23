@@ -56,5 +56,11 @@
     "57": "Vahvista, että uusi salasana ei vastaa uutta salasanaa.",
     "15": "Jos jokin palvelimistasi tukee varmuuskopiointia, saat sähköposti-ilmoituksen aina, kun varmuuskopiointi onnistuu.",
     "17": "Jos jokin palvelimistasi tukee varmuuskopiointia, saat sähköposti-ilmoituksen, jos varmuuskopiointi epäonnistuu tai varmuuskopioinnin aikana ilmenee virhe.",
-    "18": "Päivitä profiiliasetukset"
+    "18": "Päivitä profiiliasetukset",
+    "58": "Tilisi turvallisuuden varmistamiseksi sinun on aktivoitava kaksivaiheinen todennus ennen kuin voit jatkaa. Järjestelmämme tukee TOTP-sovelluspohjaista kaksivaiheista todennusta, jonka avulla voit käyttää sovelluksia, kuten Google Authenticator tai Authy, aikaperusteisten kertaluonteisten salasanojen luomiseen. Lisäksi tuemme YubiKey OTP -todennusta, jonka avulla voit käyttää YubiKey-laitetta suojattujen kertaluonteisten salasanojen luomiseen.",
+    "59": "Tämä järjestelmä edellyttää, että kaksivaiheinen todennus on aina käytössä. Jos poistat sen käytöstä, sinun on aktivoitava kaksivaiheinen todennus uudelleen saadaksesi täyden pääsyn tilillesi.",
+    "60": "Syötä sovelluksen luoma kuusinumeroinen koodi alla olevaan kenttään.",
+    "61": "On tärkeää tehdä kopio kertaluonteisista varmuuskopiokoodeistasi. Nämä koodit ovat välttämättömiä tilisi käyttämiseksi, jos menetät pääsyn kaksivaiheiseen todennuslaitteeseesi. Säilytä ne turvallisessa paikassa.",
+    "62": "Peruuta",
+    "63": "Haluatko varmasti poistaa kaksivaiheisen todennuksen käytöstä? Tämä suojausominaisuus tarjoaa ylimääräisen suojaustason tilillesi. Jos jatkat deaktivointia, tilisi on vähemmän turvallinen."
 }

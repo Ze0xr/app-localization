@@ -56,5 +56,11 @@
     "57": "Confirmați că noua parolă nu se potrivește cu parola nouă.",
     "15": "Dacă oricare dintre serverele dvs. acceptă copii de rezervă, veți primi o notificare prin e-mail de fiecare dată când o copie de rezervă se finalizează cu succes.",
     "17": "Dacă oricare dintre serverele dvs. acceptă copii de rezervă, veți primi o notificare prin e-mail dacă o copie de rezervă nu se finalizează sau apare o eroare în timpul procesului de backup.",
-    "18": "Actualizați setările profilului"
+    "18": "Actualizați setările profilului",
+    "58": "Pentru a asigura securitatea contului dvs., trebuie să activați autentificarea cu doi factori înainte de a putea continua. Sistemul nostru acceptă autentificarea cu doi factori bazată pe aplicații TOTP, care vă permite să utilizați aplicații precum Google Authenticator sau Authy pentru a genera parole unice bazate pe timp. În plus, acceptăm autentificarea YubiKey OTP, permițându-vă să utilizați un dispozitiv YubiKey pentru a genera parole sigure unice.",
+    "59": "Acest sistem necesită autentificarea cu doi factori pentru a fi activată în orice moment. Dacă îl dezactivați, va trebui să reactivați autentificarea cu doi factori pentru a recâștiga accesul complet la contul dvs.",
+    "60": "Introduceți codul din șase cifre generat de aplicație în câmpul de mai jos.",
+    "61": "Este important să faceți o copie a codurilor de rezervă unice. Aceste coduri sunt esențiale pentru accesarea contului dvs. în cazul în care pierdeți accesul la dispozitivul dvs. de autentificare cu doi factori. Vă rugăm să le depozitați într-un loc sigur.",
+    "62": "Anulează",
+    "63": "Sigur doriți să dezactivați autentificarea cu doi factori? Această caracteristică de securitate oferă un nivel suplimentar de protecție pentru contul dvs. Dacă continuați cu dezactivarea, contul dvs. va fi mai puțin sigur."
 }

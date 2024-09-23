@@ -56,5 +56,11 @@
     "57": "Konfirmasi kata sandi baru tidak cocok dengan kata sandi baru.",
     "15": "Jika salah satu server Anda mendukung pencadangan, Anda akan menerima notifikasi email setiap kali pencadangan berhasil diselesaikan.",
     "17": "Jika salah satu server Anda mendukung pencadangan, Anda akan menerima notifikasi email jika pencadangan gagal diselesaikan atau terjadi kesalahan selama proses pencadangan.",
-    "18": "Memperbarui Pengaturan Profil"
+    "18": "Memperbarui Pengaturan Profil",
+    "58": "Untuk memastikan keamanan akun Anda, Anda harus mengaktifkan autentikasi dua faktor sebelum dapat melanjutkan. Sistem kami mendukung autentikasi dua faktor berbasis aplikasi TOTP, yang memungkinkan Anda menggunakan aplikasi seperti Google Authenticator atau Authy untuk membuat kata sandi sekali pakai berbasis waktu. Selain itu, kami mendukung autentikasi OTP YubiKey, sehingga Anda dapat menggunakan perangkat YubiKey untuk membuat kata sandi sekali pakai yang aman.",
+    "59": "Sistem ini mengharuskan autentikasi dua faktor diaktifkan setiap saat. Jika Anda menonaktifkannya, Anda harus mengaktifkan kembali autentikasi dua faktor untuk mendapatkan kembali akses penuh ke akun Anda.",
+    "60": "Masukkan kode enam digit yang dihasilkan oleh aplikasi pada kolom di bawah ini.",
+    "61": "Penting untuk membuat salinan kode cadangan satu kali Anda. Kode-kode ini sangat penting untuk mengakses akun Anda jika Anda kehilangan akses ke perangkat autentikasi dua faktor Anda. Simpanlah kode-kode tersebut di tempat yang aman.",
+    "62": "Batal",
+    "63": "Apakah Anda yakin ingin menonaktifkan autentikasi dua faktor? Fitur keamanan ini memberikan lapisan perlindungan tambahan untuk akun Anda. Jika Anda melanjutkan penonaktifan, akun Anda akan menjadi kurang aman."
 }

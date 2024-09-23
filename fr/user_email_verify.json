@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "Veuillez vérifier votre adresse électronique. Il s'agit d'une étape cruciale pour garantir la sécurité et l'exactitude des informations de votre compte. Si vous ne vérifiez pas votre adresse électronique, vous risquez de ne pas pouvoir utiliser toutes les fonctionnalités de votre compte.",
+    "2": "Saisir le code de vérification",
+    "3": "Vérifier",
+    "4": "Renvoyer l'e-mail de vérification",
+    "5": "L'adresse électronique a été vérifiée avec succès.",
+    "6": "Le code fourni n'a pas permis de vérifier votre adresse électronique.",
+    "7": "L'email de vérification a été envoyé avec succès.",
+    "8": "Si vous n'avez pas reçu d'e-mail, vérifiez votre dossier de courrier indésirable ou demandez un nouvel e-mail de vérification.",
+    "9": "Envoi d'un courriel de vérification",
+    "10": "Cliquez sur le bouton \"Envoyer l'e-mail de vérification\" pour recevoir un e-mail contenant un code de vérification.",
+    "11": "Déconnexion",
+    "12": "L'adresse électronique suivante doit être vérifiée :",
+    "13": "L'email de vérification n'a pas pu être envoyé, veuillez réessayer plus tard.",
+    "14": "Veuillez vérifier votre adresse électronique. Cette étape cruciale garantit la sécurité et l'exactitude des informations de votre compte. Votre compte restera restreint jusqu'à ce que la procédure de vérification soit terminée."
+}

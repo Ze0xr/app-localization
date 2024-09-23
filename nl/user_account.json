@@ -56,5 +56,11 @@
     "57": "Bevestig nieuw wachtwoord komt niet overeen met nieuw wachtwoord.",
     "15": "Als een van uw servers back-ups ondersteunt, ontvangt u een e-mailbericht telkens wanneer een back-up met succes is voltooid.",
     "17": "Als een van je servers back-ups ondersteunt, ontvang je een e-mailmelding als een back-up niet wordt voltooid of als er een fout optreedt tijdens het back-upproces.",
-    "18": "Profielinstellingen bijwerken"
+    "18": "Profielinstellingen bijwerken",
+    "58": "Om de veiligheid van je account te garanderen, moet je twee-factor authenticatie activeren voordat je verder kunt gaan. Ons systeem ondersteunt TOTP app-gebaseerde twee-factor authenticatie, waarmee je apps zoals Google Authenticator of Authy kunt gebruiken om tijdgebaseerde eenmalige wachtwoorden te genereren. Daarnaast ondersteunen we YubiKey OTP-authenticatie, waarmee je een YubiKey-apparaat kunt gebruiken om veilige eenmalige wachtwoorden te genereren.",
+    "59": "Dit systeem vereist dat tweefactorauthenticatie altijd is ingeschakeld. Als je dit uitschakelt, moet je tweefactorauthenticatie opnieuw inschakelen om weer volledige toegang tot je account te krijgen.",
+    "60": "Voer in het onderstaande veld de zescijferige code in die door de app wordt gegenereerd.",
+    "61": "Het is belangrijk om een kopie te maken van je eenmalige back-upcodes. Deze codes zijn essentieel voor toegang tot je account in het geval je de toegang tot je tweefactorauthenticatie-apparaat verliest. Bewaar ze op een veilige plaats.",
+    "62": "Annuleren",
+    "63": "Weet je zeker dat je de authenticatie met twee factoren wilt uitschakelen? Deze beveiligingsfunctie biedt een extra beschermingslaag voor je account. Als je doorgaat met deactiveren, zal je account minder goed beveiligd zijn."
 }

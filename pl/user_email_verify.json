@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "Zweryfikuj swój adres e-mail. Jest to kluczowy krok w celu zapewnienia bezpieczeństwa i dokładności informacji o koncie. Brak weryfikacji adresu e-mail może skutkować ograniczeniem funkcjonalności.",
+    "2": "Wprowadź kod weryfikacyjny",
+    "3": "Weryfikacja",
+    "4": "Wyślij ponownie e-mail weryfikacyjny",
+    "5": "Adres e-mail zweryfikowany pomyślnie.",
+    "6": "Podany kod nie zweryfikował adresu e-mail.",
+    "7": "Wiadomość weryfikacyjna została wysłana pomyślnie.",
+    "8": "Sprawdź swoją skrzynkę odbiorczą w poszukiwaniu wiadomości weryfikacyjnej i wprowadź kod w polu poniżej. Jeśli nie otrzymałeś wiadomości e-mail, sprawdź folder spamu lub poproś o nową wiadomość weryfikacyjną.",
+    "9": "Wyślij e-mail weryfikacyjny",
+    "10": "Kliknij przycisk \"Wyślij e-mail weryfikacyjny\", aby otrzymać wiadomość e-mail zawierającą kod weryfikacyjny.",
+    "11": "Wylogowanie",
+    "12": "Poniższy adres e-mail wymaga weryfikacji:",
+    "13": "Weryfikacyjna wiadomość e-mail nie mogła zostać wysłana. Spróbuj ponownie później.",
+    "14": "Prosimy o zweryfikowanie adresu e-mail. Ten kluczowy krok zapewnia bezpieczeństwo i dokładność informacji o koncie. Twoje konto pozostanie zablokowane do czasu zakończenia procesu weryfikacji."
+}

@@ -56,5 +56,11 @@
     "57": "A confirmação da nova senha não corresponde à nova senha.",
     "15": "Se algum dos seus servidores suportar backups, você receberá uma notificação por e-mail sempre que um backup for concluído com êxito.",
     "17": "Se algum dos seus servidores suportar backups, você receberá uma notificação por e-mail se um backup não for concluído ou se ocorrer um erro durante o processo de backup.",
-    "18": "Atualizar configurações de perfil"
+    "18": "Atualizar configurações de perfil",
+    "58": "Para garantir a segurança da sua conta, você deve ativar a autenticação de dois fatores antes de continuar. Nosso sistema é compatível com a autenticação de dois fatores baseada em aplicativo TOTP, que permite usar aplicativos como o Google Authenticator ou o Authy para gerar senhas de uso único baseadas em tempo. Além disso, somos compatíveis com a autenticação YubiKey OTP, que permite usar um dispositivo YubiKey para gerar senhas de uso único seguras.",
+    "59": "Esse sistema exige que a autenticação de dois fatores esteja sempre ativada. Se você a desativar, precisará reativar a autenticação de dois fatores para recuperar o acesso total à sua conta.",
+    "60": "Insira o código de seis dígitos gerado pelo aplicativo no campo abaixo.",
+    "61": "É importante fazer uma cópia dos seus códigos de backup de uso único. Esses códigos são essenciais para acessar sua conta caso você perca o acesso ao dispositivo de autenticação de dois fatores. Guarde-os em um local seguro.",
+    "62": "Cancel",
+    "63": "Tem certeza de que deseja desativar a autenticação de dois fatores? Esse recurso de segurança fornece uma camada adicional de proteção para sua conta. Se você prosseguir com a desativação, sua conta ficará menos segura."
 }

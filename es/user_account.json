@@ -56,5 +56,11 @@
     "57": "Confirmar nueva contraseña no coincide con la nueva contraseña.",
     "15": "Si alguno de tus servidores admite copias de seguridad, recibirás una notificación por correo electrónico cada vez que se complete correctamente una copia de seguridad.",
     "17": "Si alguno de sus servidores admite copias de seguridad, recibirá una notificación por correo electrónico si una copia de seguridad no se completa o se produce un error durante el proceso de copia de seguridad.",
-    "18": "Actualizar la configuración del perfil"
+    "18": "Actualizar la configuración del perfil",
+    "58": "Para garantizar la seguridad de su cuenta, debe activar la autenticación de dos factores antes de poder continuar. Nuestro sistema admite la autenticación de dos factores basada en la aplicación TOTP, que le permite utilizar aplicaciones como Google Authenticator o Authy para generar contraseñas de un solo uso basadas en el tiempo. Además, admitimos la autenticación OTP de YubiKey, que le permite utilizar un dispositivo YubiKey para generar contraseñas de un solo uso seguras.",
+    "59": "Este sistema requiere que la autenticación de dos factores esté activada en todo momento. Si la desactivas, tendrás que volver a activar la autenticación de dos factores para recuperar el acceso completo a tu cuenta.",
+    "60": "Introduzca el código de seis dígitos generado por la aplicación en el siguiente campo.",
+    "61": "Es importante que haga una copia de sus códigos de seguridad de un solo uso. Estos códigos son esenciales para acceder a su cuenta en caso de que pierda el acceso a su dispositivo de autenticación de dos factores. Guárdelos en un lugar seguro.",
+    "62": "Cancelar",
+    "63": "¿Está seguro de que desea desactivar la autenticación de dos factores? Esta función de seguridad proporciona una capa adicional de protección para su cuenta. Si procede a la desactivación, su cuenta será menos segura."
 }

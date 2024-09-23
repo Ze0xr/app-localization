@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "Lütfen e-posta adresinizi doğrulayın. Bu, hesap bilgilerinizin güvenliğini ve doğruluğunu sağlamak için çok önemli bir adımdır. E-posta adresinizi doğrulamamanız, işlevselliğinizin kısıtlanmasına neden olabilir.",
+    "2": "Doğrulama kodunu girin",
+    "3": "Doğrulama",
+    "4": "Doğrulama E-postasını Yeniden Gönder",
+    "5": "E-posta adresi başarıyla doğrulandı.",
+    "6": "Verilen kod e-posta adresinizi doğrulayamadı.",
+    "7": "Doğrulama e-postası başarıyla gönderildi.",
+    "8": "Doğrulama e-postası için gelen kutunuzu kontrol edin ve kodu aşağıdaki alana girin. Bir e-posta almadıysanız, spam klasörünüzü kontrol edin veya yeni bir doğrulama e-postası isteyin.",
+    "9": "Doğrulama E-postası Gönder",
+    "10": "Doğrulama kodu içeren bir e-posta almak için \"Doğrulama E-postası Gönder\" düğmesine tıklayın.",
+    "11": "Oturum Kapatma",
+    "12": "Aşağıdaki e-posta adresi doğrulama gerektirmektedir:",
+    "13": "Doğrulama e-postası gönderilemedi. Lütfen daha sonra tekrar deneyin.",
+    "14": "Lütfen e-posta adresinizi doğrulayın. Bu önemli adım, hesap bilgilerinizin güvenliğini ve doğruluğunu sağlar. Doğrulama işlemi tamamlanana kadar hesabınız kısıtlı kalacaktır."
+}

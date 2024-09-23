@@ -56,5 +56,11 @@
     "57": "Az új jelszó megerősítése nem egyezik az új jelszóval.",
     "15": "Ha valamelyik szervere támogatja a biztonsági mentést, akkor minden egyes sikeres biztonsági mentésről e-mail értesítést kap.",
     "17": "Ha valamelyik szervere támogatja a biztonsági mentést, e-mail értesítést kap, ha a biztonsági mentés nem sikerül befejezni, vagy hiba lép fel a mentési folyamat során.",
-    "18": "Profilbeállítások frissítése"
+    "18": "Profilbeállítások frissítése",
+    "58": "A fiókja biztonságának biztosítása érdekében a folytatás előtt aktiválnia kell a kétfaktoros hitelesítést. Rendszerünk támogatja a TOTP alkalmazásalapú kétfaktoros hitelesítést, amely lehetővé teszi, hogy olyan alkalmazásokat használjon, mint a Google Authenticator vagy az Authy, hogy időalapú egyszeri jelszavakat generáljon. Ezenkívül támogatjuk a YubiKey OTP hitelesítést, amely lehetővé teszi, hogy egy YubiKey eszközt használjon biztonságos egyszeri jelszavak generálására.",
+    "59": "Ez a rendszer megköveteli, hogy a kétfaktoros hitelesítés mindig engedélyezve legyen. Ha kikapcsolja, újra aktiválnia kell a kétfaktoros hitelesítést, hogy újra teljes hozzáférést kapjon a fiókjához.",
+    "60": "Írja be az alkalmazás által generált hatjegyű kódot az alábbi mezőbe.",
+    "61": "Fontos, hogy készítsen másolatot az egyszeri biztonsági kódokról. Ezek a kódok elengedhetetlenek a fiókjához való hozzáféréshez, ha elveszíti a kétfaktoros hitelesítési eszközéhez való hozzáférést. Kérjük, tárolja őket biztonságos helyen.",
+    "62": "Törölje",
+    "63": "Biztos, hogy ki akarja kapcsolni a kétfaktoros hitelesítést? Ez a biztonsági funkció egy további védelmi szintet biztosít a fiókja számára. Ha folytatja a deaktiválást, a fiókja kevésbé lesz biztonságos."
 }

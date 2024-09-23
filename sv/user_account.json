@@ -56,5 +56,11 @@
     "57": "Bekräfta att nytt lösenord inte matchar nytt lösenord.",
     "15": "Om någon av dina servrar stöder säkerhetskopiering får du ett e-postmeddelande varje gång en säkerhetskopiering slutförs.",
     "17": "Om någon av dina servrar stöder säkerhetskopiering får du ett e-postmeddelande om en säkerhetskopiering inte slutförs eller om ett fel uppstår under säkerhetskopieringen.",
-    "18": "Uppdatera profilinställningar"
+    "18": "Uppdatera profilinställningar",
+    "58": "För att säkerställa säkerheten för ditt konto måste du aktivera tvåfaktorsautentisering innan du kan fortsätta. Vårt system stöder TOTP-appbaserad tvåfaktorsautentisering, vilket gör att du kan använda appar som Google Authenticator eller Authy för att generera tidsbaserade engångslösenord. Dessutom stöder vi YubiKey OTP-autentisering, så att du kan använda en YubiKey-enhet för att generera säkra engångslösenord.",
+    "59": "Detta system kräver att tvåfaktorsautentisering är aktiverad hela tiden. Om du inaktiverar det måste du aktivera tvåfaktorsautentisering igen för att få full åtkomst till ditt konto.",
+    "60": "Ange den sexsiffriga koden som genereras av appen i fältet nedan.",
+    "61": "Det är viktigt att göra en kopia av dina engångskoder för säkerhetskopiering. Dessa koder är viktiga för att komma åt ditt konto om du tappar åtkomst till din tvåfaktorsautentiseringsenhet. Förvara dem på ett säkert ställe.",
+    "62": "Avbryt",
+    "63": "Är du säker på att du vill inaktivera tvåfaktorsautentisering? Den här säkerhetsfunktionen ger ett extra lager av skydd för ditt konto. Om du fortsätter med inaktivering kommer ditt konto att vara mindre säkert."
 }

@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "Molimo Vjerite svoju adresu e-pošte. Ovo je ključan korak za osiguravanje sigurnosti i tačnosti podataka o vašem nalogu. Ako ne potvrdite svoju adresu e-pošte, može doći do ograničene funkcije.",
+    "2": "Unesite kod za verifikaciju",
+    "3": "Potvrdite",
+    "4": "Ponovo pošaljite e-poštu za verifikaciju",
+    "5": "Adresa e-pošte je uspešno verifikovana.",
+    "6": "Isporučeni kod nije uspeo da verifikuje vašu adresu e-pošte.",
+    "7": "E-pošta za verifikaciju uspešno je poslata.",
+    "8": "Proverite prijemno sanduče za e-poštu za verifikaciju i unesite kod u polje ispod. Ako niste primili e-poštu, proverite fasciklu neželjene pošte ili zatražite novu e-poštu za verifikaciju.",
+    "9": "Pošaljite e-mail za verifikaciju",
+    "10": "Kliknite na dugme „Pošalji e-poštu za verifikaciju“ da biste dobili e-poštu koja sadrži verifikacioni kod.",
+    "11": "Odjavite se",
+    "12": "Sledeća adresa e-pošte zahteva verifikaciju:",
+    "13": "E-poruka za verifikaciju nije mogla biti poslata. Pokušajte ponovo kasnije.",
+    "14": "Molimo proverite svoju adresu e-pošte. Ovaj ključni korak osigurava sigurnost i tačnost podataka o vašem nalogu. Vaš nalog će ostati ograničen dok se proces verifikacije ne završi."
+}

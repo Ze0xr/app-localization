@@ -56,5 +56,11 @@
     "57": "Xác nhận mật khẩu mới không khớp với mật khẩu mới.",
     "15": "Nếu bất kỳ máy chủ nào của bạn hỗ trợ sao lưu, bạn sẽ nhận được thông báo qua email mỗi khi sao lưu hoàn thành thành công.",
     "17": "Nếu bất kỳ máy chủ nào của bạn hỗ trợ sao lưu, bạn sẽ nhận được thông báo qua email nếu sao lưu không hoàn tất hoặc xảy ra lỗi trong quá trình sao lưu.",
-    "18": "Cập nhật cài đặt hồ sơ"
+    "18": "Cập nhật cài đặt hồ sơ",
+    "58": "Để đảm bảo tính bảo mật cho tài khoản của bạn, bạn phải kích hoạt xác thực hai yếu tố trước khi có thể tiếp tục. Hệ thống của chúng tôi hỗ trợ xác thực hai yếu tố dựa trên ứng dụng TOTP, cho phép bạn sử dụng các ứng dụng như Google Authenticator hoặc Authy để tạo mật khẩu một lần dựa trên thời gian. Ngoài ra, chúng tôi hỗ trợ xác thực YubiKey OTP, cho phép bạn sử dụng thiết bị YubiKey để tạo mật khẩu an toàn một lần.",
+    "59": "Hệ thống này yêu cầu xác thực hai yếu tố phải được bật mọi lúc. Nếu bạn hủy kích hoạt nó, bạn sẽ cần kích hoạt lại xác thực hai yếu tố để lấy lại quyền truy cập đầy đủ vào tài khoản của mình.",
+    "60": "Nhập mã gồm sáu chữ số được tạo bởi ứng dụng vào trường bên dưới.",
+    "61": "Điều quan trọng là tạo một bản sao của mã dự phòng một lần của bạn. Những mã này rất cần thiết để truy cập tài khoản của bạn trong trường hợp bạn mất quyền truy cập vào thiết bị xác thực hai yếu tố của mình. Vui lòng lưu trữ chúng ở một nơi an toàn.",
+    "62": "Hủy",
+    "63": "Bạn có chắc chắn muốn hủy kích hoạt xác thực hai yếu tố không? Tính năng bảo mật này cung cấp một lớp bảo vệ bổ sung cho tài khoản của bạn. Nếu bạn tiến hành hủy kích hoạt, tài khoản của bạn sẽ kém an toàn hơn."
 }

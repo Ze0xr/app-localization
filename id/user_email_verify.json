@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "Verifikasi alamat email Anda. Ini adalah langkah penting untuk memastikan keamanan dan keakuratan informasi akun Anda. Gagal memverifikasi alamat email Anda dapat mengakibatkan fungsi yang dibatasi.",
+    "2": "Masukkan kode verifikasi",
+    "3": "Verifikasi",
+    "4": "Kirim Ulang Email Verifikasi",
+    "5": "Alamat email berhasil diverifikasi.",
+    "6": "Kode yang diberikan gagal memverifikasi alamat email Anda.",
+    "7": "Email verifikasi berhasil dikirim.",
+    "8": "Periksa kotak masuk Anda untuk email verifikasi dan masukkan kode pada kolom di bawah ini. Jika Anda tidak menerima email, periksa folder spam atau minta email verifikasi baru.",
+    "9": "Kirim Email Verifikasi",
+    "10": "Klik tombol \"Kirim Email Verifikasi\" untuk menerima email yang berisi kode verifikasi.",
+    "11": "Keluar",
+    "12": "Alamat email berikut memerlukan verifikasi:",
+    "13": "Email verifikasi tidak dapat dikirim, silakan coba lagi nanti.",
+    "14": "Mohon verifikasi alamat email Anda. Langkah penting ini memastikan keamanan dan keakuratan informasi akun Anda. Akun Anda akan tetap dibatasi sampai proses verifikasi selesai."
+}

@@ -56,5 +56,11 @@
     "57": "Potrditev novega gesla se ne ujema z novim geslom.",
     "15": "Če kateri od vaših strežnikov podpira varnostno kopiranje, boste prejeli e-poštno obvestilo vsakič, ko bo varnostno kopiranje uspešno končano.",
     "17": "Če kateri od vaših strežnikov podpira varnostno kopiranje, boste prejeli e-poštno obvestilo, če se varnostno kopiranje ne zaključi ali če med postopkom varnostnega kopiranja pride do napake.",
-    "18": "Posodobitev nastavitev profila"
+    "18": "Posodobitev nastavitev profila",
+    "58": "Da bi zagotovili varnost računa, morate pred nadaljevanjem aktivirati dvofaktorsko preverjanje pristnosti. Naš sistem podpira aplikacijsko dvofaktorsko preverjanje pristnosti TOTP, ki vam omogoča uporabo aplikacij, kot sta Google Authenticator ali Authy, za ustvarjanje časovno opredeljenih enkratnih gesel. Podpiramo tudi preverjanje pristnosti YubiKey OTP, ki vam omogoča uporabo naprave YubiKey za ustvarjanje varnih enkratnih gesel.",
+    "59": "Ta sistem zahteva, da je dvostopenjsko preverjanje pristnosti vedno omogočeno. Če ga deaktivirate, boste morali dvostopenjsko preverjanje pristnosti znova aktivirati, da bi ponovno pridobili popoln dostop do svojega računa.",
+    "60": "V spodnje polje vnesite šestmestno kodo, ki jo generira aplikacija.",
+    "61": "Pomembno je, da naredite kopijo svojih enkratnih varnostnih kod. Te kode so bistvene za dostop do računa, če izgubite dostop do naprave za dvostopenjsko preverjanje pristnosti. Shranite jih na varnem mestu.",
+    "62": "Prekliči",
+    "63": "Ali ste prepričani, da želite deaktivirati dvofaktorsko preverjanje pristnosti? Ta varnostna funkcija zagotavlja dodatno raven zaščite vašega računa. Če jo deaktivirate, bo vaš račun manj varen."
 }

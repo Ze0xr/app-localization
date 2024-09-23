@@ -56,5 +56,11 @@
     "57": "Potvrdenie nového hesla sa nezhoduje s novým heslom.",
     "15": "Ak niektorý z vašich serverov podporuje zálohovanie, dostanete e-mailové upozornenie zakaždým, keď sa zálohovanie úspešne dokončí.",
     "17": "Ak niektorý z vašich serverov podporuje zálohovanie, dostanete e-mailové upozornenie, ak sa zálohovanie nedokončí alebo sa počas procesu zálohovania vyskytne chyba.",
-    "18": "Aktualizácia nastavení profilu"
+    "18": "Aktualizácia nastavení profilu",
+    "58": "Aby sme zaistili bezpečnosť vášho účtu, musíte pred pokračovaním v práci aktivovať dvojfaktorovú autentifikáciu. Náš systém podporuje dvojfaktorovú autentifikáciu založenú na aplikácii TOTP, ktorá vám umožňuje používať aplikácie ako Google Authenticator alebo Authy na generovanie časovo obmedzených jednorazových hesiel. Okrem toho podporujeme autentifikáciu YubiKey OTP, ktorá vám umožňuje používať zariadenie YubiKey na generovanie bezpečných jednorazových hesiel.",
+    "59": "Tento systém vyžaduje, aby bolo dvojfaktorové overovanie vždy povolené. Ak ho deaktivujete, budete musieť dvojfaktorové overovanie znovu aktivovať, aby ste získali úplný prístup k svojmu kontu.",
+    "60": "Do nižšie uvedeného poľa zadajte šesťmiestny kód vygenerovaný aplikáciou.",
+    "61": "Je dôležité, aby ste si vytvorili kópiu svojich jednorazových záložných kódov. Tieto kódy sú nevyhnutné na prístup k vášmu účtu v prípade, že stratíte prístup k svojmu zariadeniu na dvojfaktorové overovanie. Uložte ich na bezpečné miesto.",
+    "62": "Zrušiť",
+    "63": "Ste si istí, že chcete deaktivovať dvojfaktorové overovanie? Táto bezpečnostná funkcia poskytuje ďalšiu úroveň ochrany vášho konta. Ak pristúpite k deaktivácii, vaše konto bude menej bezpečné."
 }

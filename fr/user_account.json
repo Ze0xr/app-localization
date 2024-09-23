@@ -56,5 +56,11 @@
     "57": "La confirmation du nouveau mot de passe ne correspond pas au nouveau mot de passe.",
     "15": "Si l'un de vos serveurs prend en charge les sauvegardes, vous recevrez une notification par courrier électronique chaque fois qu'une sauvegarde se termine avec succès.",
     "17": "Si l'un de vos serveurs prend en charge les sauvegardes, vous recevrez une notification par courrier électronique si une sauvegarde ne se termine pas ou si une erreur se produit au cours du processus de sauvegarde.",
-    "18": "Mise à jour des paramètres du profil"
+    "18": "Mise à jour des paramètres du profil",
+    "58": "Pour garantir la sécurité de votre compte, vous devez activer l'authentification à deux facteurs avant de pouvoir continuer. Notre système prend en charge l'authentification à deux facteurs basée sur l'application TOTP, qui vous permet d'utiliser des applications telles que Google Authenticator ou Authy pour générer des mots de passe à usage unique basés sur le temps. En outre, nous prenons en charge l'authentification OTP YubiKey, qui vous permet d'utiliser un dispositif YubiKey pour générer des mots de passe à usage unique sécurisés.",
+    "59": "Ce système exige que l'authentification à deux facteurs soit activée en permanence. Si vous la désactivez, vous devrez réactiver l'authentification à deux facteurs pour retrouver un accès complet à votre compte.",
+    "60": "Saisissez le code à six chiffres généré par l'application dans le champ ci-dessous.",
+    "61": "Il est important de faire une copie de vos codes de sauvegarde à usage unique. Ces codes sont essentiels pour accéder à votre compte au cas où vous perdriez l'accès à votre dispositif d'authentification à deux facteurs. Veuillez les conserver en lieu sûr.",
+    "62": "Annuler",
+    "63": "Êtes-vous sûr de vouloir désactiver l'authentification à deux facteurs ? Cette fonction de sécurité fournit une couche supplémentaire de protection pour votre compte. Si vous procédez à la désactivation, votre compte sera moins sécurisé."
 }

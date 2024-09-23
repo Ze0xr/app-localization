@@ -56,5 +56,11 @@
     "57": "La conferma della nuova password non corrisponde alla nuova password.",
     "15": "Se uno dei vostri server supporta i backup, riceverete una notifica via e-mail ogni volta che un backup viene completato con successo.",
     "17": "Se uno dei vostri server supporta i backup, riceverete una notifica via e-mail se un backup non viene completato o se si verifica un errore durante il processo di backup.",
-    "18": "Aggiornare le impostazioni del profilo"
+    "18": "Aggiornare le impostazioni del profilo",
+    "58": "Per garantire la sicurezza dell'account, è necessario attivare l'autenticazione a due fattori prima di poter continuare. Il nostro sistema supporta l'autenticazione a due fattori basata su app TOTP, che consente di utilizzare app come Google Authenticator o Authy per generare password monouso a tempo. Inoltre, supportiamo l'autenticazione YubiKey OTP, che consente di utilizzare un dispositivo YubiKey per generare password monouso sicure.",
+    "59": "Questo sistema richiede che l'autenticazione a due fattori sia sempre attiva. Se la disattivate, dovrete riattivare l'autenticazione a due fattori per riottenere l'accesso completo al vostro account.",
+    "60": "Inserite il codice a sei cifre generato dall'applicazione nel campo sottostante.",
+    "61": "È importante fare una copia dei codici di backup una tantum. Questi codici sono essenziali per accedere al proprio account in caso di perdita dell'accesso al dispositivo di autenticazione a due fattori. Conservarli in un luogo sicuro.",
+    "62": "Annullamento",
+    "63": "Siete sicuri di voler disattivare l'autenticazione a due fattori? Questa funzione di sicurezza fornisce un ulteriore livello di protezione al vostro account. Se procedete alla disattivazione, il vostro account sarà meno sicuro."
 }

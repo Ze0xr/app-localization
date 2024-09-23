@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "Please Verify your email address. This is a crucial step to ensure the security and accuracy of your account information. Failing to verify your email address may result in restricted functionality.",
+    "2": "Enter verification code",
+    "3": "Verify",
+    "4": "Resend Verification Email",
+    "5": "Email address verified successfully.",
+    "6": "The supplied code failed to verify your email address.",
+    "7": "Verification email sent successfully.",
+    "8": "Check your inbox for a verification email and input the code in the field below. If you did not receive an email, check your spam folder or request a new verification email.",
+    "9": "Send Verification Email",
+    "10": "Click the \"Send Verification Email\" button to receive an email containing a verification code.",
+    "11": "Logout",
+    "12": "The following email address requires verification:",
+    "13": "The verification email could not be sent. Please try again later.",
+    "14": "Please verify your email address. This crucial step ensures the security and accuracy of your account information. Your account will remain restricted until the verification process has been completed."
+}

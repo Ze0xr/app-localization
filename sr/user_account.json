@@ -56,5 +56,11 @@
     "57": "Potvrdite da nova lozinka ne odgovara novoj lozinci.",
     "15": "Ako bilo koji od vaših servera podržava rezervne kopije, dobićete obaveštenje putem e-pošte svaki put kada se rezervna kopija uspešno završi.",
     "17": "Ako bilo koji od vaših servera podržava rezervne kopije, dobićete obaveštenje putem e-pošte ako rezervna kopija ne bude završena ili dođe do greške tokom procesa pravljenja rezervne kopije.",
-    "18": "Ažurirajte postavke profila"
+    "18": "Ažurirajte postavke profila",
+    "58": "Da biste osigurali sigurnost svog naloga, morate aktivirati dvofaktorsku autentifikaciju pre nego što nastavite. Naš sistem podržava dvofaktorsku autentifikaciju zasnovanu na TOTP aplikacijama, što vam omogućava da koristite aplikacije poput Google Authenticator ili Authi za generisanje jednokratnih lozinki zasnovanih na vremenu. Pored toga, podržavamo IubiKei OTP autentifikaciju, omogućavajući vam da koristite IubiKei uređaj za generisanje sigurnih jednokratnih lozinki.",
+    "59": "Ovaj sistem zahteva da dvofaktorska autentifikacija bude omogućena u svakom trenutku. Ako ga deaktivirate, moraćete ponovo da aktivirate dvofaktorsku autentifikaciju da biste povratili puni pristup svom nalogu.",
+    "60": "Unesite šestocifreni kod koji generiše aplikacija u polje ispod.",
+    "61": "Važno je napraviti kopiju jednokratnih rezervnih kodova. Ovi kodovi su neophodni za pristup vašem nalogu u slučaju da izgubite pristup svom dvofaktorskom uređaju za autentifikaciju. Molimo vas da ih čuvate na sigurnom mestu.",
+    "62": "Otkaži",
+    "63": "Da li ste sigurni da želite da deaktivirate dvofaktorsku autentifikaciju? Ova bezbednosna funkcija pruža dodatni sloj zaštite za vaš nalog. Ako nastavite sa deaktivacijom, vaš nalog će biti manje siguran."
 }

@@ -56,5 +56,11 @@
     "57": "Neues Passwort bestätigen stimmt nicht mit neuem Passwort überein.",
     "15": "Wenn einer Ihrer Server Backups unterstützt, erhalten Sie jedes Mal eine E-Mail-Benachrichtigung, wenn ein Backup erfolgreich abgeschlossen wurde.",
     "17": "Wenn einer Ihrer Server Backups unterstützt, erhalten Sie eine E-Mail-Benachrichtigung, wenn ein Backup nicht abgeschlossen werden kann oder ein Fehler während des Backup-Prozesses auftritt.",
-    "18": "Profileinstellungen aktualisieren"
+    "18": "Profileinstellungen aktualisieren",
+    "58": "Um die Sicherheit Ihres Kontos zu gewährleisten, müssen Sie die Zwei-Faktor-Authentifizierung aktivieren, bevor Sie fortfahren können. Unser System unterstützt die TOTP-App-basierte Zwei-Faktor-Authentifizierung, die es Ihnen ermöglicht, Apps wie Google Authenticator oder Authy zu verwenden, um zeitbasierte Einmal-Passwörter zu generieren. Außerdem unterstützen wir die YubiKey OTP-Authentifizierung, die es Ihnen ermöglicht, ein YubiKey-Gerät zu verwenden, um sichere Einmal-Passwörter zu generieren.",
+    "59": "Bei diesem System muss die Zwei-Faktor-Authentifizierung immer aktiviert sein. Wenn Sie sie deaktivieren, müssen Sie die Zwei-Faktor-Authentifizierung erneut aktivieren, um wieder vollen Zugriff auf Ihr Konto zu erhalten.",
+    "60": "Geben Sie den von der App generierten sechsstelligen Code in das unten stehende Feld ein.",
+    "61": "Es ist wichtig, dass Sie eine Kopie Ihrer Einmal-Backup-Codes anfertigen. Diese Codes sind für den Zugriff auf Ihr Konto unerlässlich, falls Sie den Zugang zu Ihrem Gerät für die Zwei-Faktor-Authentifizierung verlieren. Bitte bewahren Sie sie an einem sicheren Ort auf.",
+    "62": "Abbrechen",
+    "63": "Sind Sie sicher, dass Sie die Zwei-Faktor-Authentifizierung deaktivieren möchten? Diese Sicherheitsfunktion bietet einen zusätzlichen Schutz für Ihr Konto. Wenn Sie mit der Deaktivierung fortfahren, wird Ihr Konto weniger sicher sein."
 }

@@ -56,5 +56,11 @@
     "57": "Potvrdite da nova lozinka ne odgovara novoj lozinci.",
     "15": "Ako bilo koji od vaših poslužitelja podržava sigurnosne kopije, primit ćete obavijest e-poštom svaki put kada se sigurnosna kopija uspješno dovrši.",
     "17": "Ako bilo koji od vaših poslužitelja podržava sigurnosne kopije, primit ćete obavijest e-poštom ako se sigurnosna kopija ne dovrši ili dođe do pogreške tijekom postupka sigurnosne kopije.",
-    "18": "Ažurirajte postavke profila"
+    "18": "Ažurirajte postavke profila",
+    "58": "Da biste osigurali sigurnost svog računa, morate aktivirati dvofaktorsku provjeru autentičnosti prije nego što nastavite. Naš sustav podržava dvofaktorsku provjeru autentičnosti temeljenu na TOTP aplikacijama, što vam omogućuje korištenje aplikacija poput Google Authenticatora ili Authyja za generiranje jednokratnih lozinki temeljenih na vremenu. Osim toga, podržavamo YubiKey OTP provjeru autentičnosti, omogućujući vam korištenje YubiKey uređaja za generiranje sigurnih jednokratnih lozinki.",
+    "59": "Ovaj sustav zahtijeva da se u svakom trenutku omogući dvofaktorska provjera autentičnosti. Ako ga deaktivirate, morat ćete ponovno aktivirati dvofaktorsku provjeru autentičnosti kako biste povratili puni pristup svom računu.",
+    "60": "Unesite šestoznamenkasti kôd koji je generirala aplikacija u polje ispod.",
+    "61": "Važno je napraviti kopiju jednokratnih sigurnosnih kodova. Ovi kodovi su neophodni za pristup vašem računu u slučaju da izgubite pristup svom dvofaktorskom uređaju za provjeru autentičnosti. Molimo čuvajte ih na sigurnom mjestu.",
+    "62": "Otkaži",
+    "63": "Jeste li sigurni da želite deaktivirati dvofaktorsku provjeru autentičnosti? Ova sigurnosna značajka pruža dodatni sloj zaštite za vaš račun. Ako nastavite s deaktivacijom, vaš će račun biti manje siguran."
 }

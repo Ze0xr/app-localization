@@ -56,5 +56,11 @@
     "57": "Potwierdzenie nowego hasła nie pasuje do nowego hasła.",
     "15": "Jeśli którykolwiek z serwerów obsługuje tworzenie kopii zapasowych, otrzymasz powiadomienie e-mail za każdym razem, gdy kopia zapasowa zostanie pomyślnie zakończona.",
     "17": "Jeśli którykolwiek z serwerów obsługuje kopie zapasowe, otrzymasz powiadomienie e-mail, jeśli kopia zapasowa nie zostanie ukończona lub wystąpi błąd podczas procesu tworzenia kopii zapasowej.",
-    "18": "Aktualizacja ustawień profilu"
+    "18": "Aktualizacja ustawień profilu",
+    "58": "Aby zapewnić bezpieczeństwo swojego konta, musisz aktywować uwierzytelnianie dwuskładnikowe, zanim będziesz mógł kontynuować. Nasz system obsługuje uwierzytelnianie dwuskładnikowe oparte na aplikacji TOTP, które umożliwia korzystanie z aplikacji takich jak Google Authenticator lub Authy do generowania jednorazowych haseł czasowych. Ponadto obsługujemy uwierzytelnianie YubiKey OTP, umożliwiające korzystanie z urządzenia YubiKey do generowania bezpiecznych haseł jednorazowych.",
+    "59": "Ten system wymaga, aby uwierzytelnianie dwuskładnikowe było włączone przez cały czas. Jeśli je dezaktywujesz, będziesz musiał ponownie aktywować uwierzytelnianie dwuskładnikowe, aby odzyskać pełny dostęp do swojego konta.",
+    "60": "Wprowadź sześciocyfrowy kod wygenerowany przez aplikację w polu poniżej.",
+    "61": "Ważne jest, aby wykonać kopię jednorazowych kodów zapasowych. Kody te są niezbędne do uzyskania dostępu do konta w przypadku utraty dostępu do urządzenia do uwierzytelniania dwuskładnikowego. Przechowuj je w bezpiecznym miejscu.",
+    "62": "Anuluj",
+    "63": "Czy na pewno chcesz wyłączyć uwierzytelnianie dwuskładnikowe? Ta funkcja zabezpieczeń zapewnia dodatkową warstwę ochrony konta. Jeśli przejdziesz do dezaktywacji, Twoje konto będzie mniej bezpieczne."
 }

@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "Verifique seu endereço de e-mail. Essa é uma etapa crucial para garantir a segurança e a precisão das informações da sua conta. A não verificação do seu endereço de e-mail pode resultar em restrição de funcionalidade.",
+    "2": "Digite o código de verificação",
+    "3": "Verificar",
+    "4": "Reenviar e-mail de verificação",
+    "5": "Endereço de e-mail verificado com sucesso.",
+    "6": "O código fornecido falhou ao verificar seu endereço de e-mail.",
+    "7": "E-mail de verificação enviado com sucesso.",
+    "8": "Verifique se há um e-mail de verificação em sua caixa de entrada e insira o código no campo abaixo. Se você não recebeu um e-mail, verifique sua pasta de spam ou solicite um novo e-mail de verificação.",
+    "9": "Enviar e-mail de verificação",
+    "10": "Clique no botão \"Send Verification Email\" (Enviar e-mail de verificação) para receber um e-mail com um código de verificação.",
+    "11": "Sair",
+    "12": "O endereço de e-mail a seguir requer verificação:",
+    "13": "O e-mail de verificação não pôde ser enviado, tente novamente mais tarde.",
+    "14": "Verifique seu endereço de e-mail. Essa etapa crucial garante a segurança e a precisão das informações da sua conta. Sua conta permanecerá restrita até que o processo de verificação seja concluído."
+}

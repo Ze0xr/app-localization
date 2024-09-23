@@ -56,5 +56,11 @@
     "57": "Bekræft ny adgangskode stemmer ikke overens med ny adgangskode.",
     "15": "Hvis nogen af dine servere understøtter sikkerhedskopiering, vil du modtage en e-mail, hver gang en sikkerhedskopiering er gennemført.",
     "17": "Hvis nogen af dine servere understøtter backup, vil du modtage en e-mail, hvis en backup ikke gennemføres, eller der opstår en fejl under backup-processen.",
-    "18": "Opdater profilindstillinger"
+    "18": "Opdater profilindstillinger",
+    "58": "For at sikre din kontos sikkerhed skal du aktivere tofaktorgodkendelse, før du kan fortsætte. Vores system understøtter TOTP-appbaseret tofaktorgodkendelse, som giver dig mulighed for at bruge apps som Google Authenticator eller Authy til at generere tidsbaserede engangsadgangskoder. Derudover understøtter vi YubiKey OTP-godkendelse, så du kan bruge en YubiKey-enhed til at generere sikre engangsadgangskoder.",
+    "59": "Dette system kræver, at to-faktor-godkendelse altid er aktiveret. Hvis du deaktiverer den, skal du genaktivere to-faktor-godkendelse for at få fuld adgang til din konto.",
+    "60": "Indtast den sekscifrede kode, der genereres af appen, i feltet nedenfor.",
+    "61": "Det er vigtigt at tage en kopi af dine engangsbackupkoder. Disse koder er vigtige for at få adgang til din konto, hvis du mister adgangen til din to-faktor-godkendelsesenhed. Opbevar dem venligst et sikkert sted.",
+    "62": "Annuller",
+    "63": "Er du sikker på, at du vil deaktivere tofaktorgodkendelse? Denne sikkerhedsfunktion giver et ekstra lag af beskyttelse til din konto. Hvis du fortsætter med at deaktivere, vil din konto være mindre sikker."
 }

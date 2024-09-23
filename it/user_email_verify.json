@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "1": "La verifica dell'indirizzo e-mail è un passaggio fondamentale per garantire la sicurezza e l'accuratezza dei dati dell'account. La mancata verifica dell'indirizzo e-mail può comportare una limitazione delle funzionalità.",
+    "2": "Inserire il codice di verifica",
+    "3": "Verifica",
+    "4": "Reinvio dell'e-mail di verifica",
+    "5": "Indirizzo e-mail verificato con successo.",
+    "6": "Il codice fornito non è riuscito a verificare il vostro indirizzo e-mail.",
+    "7": "L'e-mail di verifica è stata inviata con successo.",
+    "8": "Controllare la casella di posta elettronica per verificare la presenza di un'e-mail di verifica e inserire il codice nel campo sottostante. Se non si è ricevuta un'e-mail, controllare la cartella spam o richiedere una nuova e-mail di verifica.",
+    "9": "Inviare l'e-mail di verifica",
+    "10": "Fare clic sul pulsante \"Invia e-mail di verifica\" per ricevere un'e-mail contenente un codice di verifica.",
+    "11": "Disconnessione",
+    "12": "Il seguente indirizzo e-mail richiede una verifica:",
+    "13": "Non è stato possibile inviare l'e-mail di verifica. Riprovare più tardi.",
+    "14": "Questa fase cruciale garantisce la sicurezza e l'accuratezza delle informazioni del vostro account. Il vostro account rimarrà limitato fino al completamento del processo di verifica."
+}
