@@ -333,5 +333,9 @@
     "334": "Skupaj",
     "335": "Sistem",
     "336": "Nakladalnik",
-    "337": "Strojna oprema"
+    "337": "Strojna oprema",
+    "338": "Nastavitve so bile uspešno posodobljene.",
+    "339": "Spremembe niso bile izvedene.",
+    "340": "Ime gostitelja bo posodobljeno v sistemu, vendar ne bo uporabljeno v strežniku, dokler ne bo ponovno vzpostavljen.",
+    "341": "Ime gostitelja je neveljavno. Če želite odstraniti ime gostitelja, pustite polje prazno."
 }

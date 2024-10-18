@@ -333,5 +333,9 @@
     "334": "Totale",
     "335": "Sistema",
     "336": "Caricatore",
-    "337": "Hardware"
+    "337": "Hardware",
+    "338": "Le impostazioni sono state aggiornate con successo.",
+    "339": "Non sono state apportate modifiche.",
+    "340": "Il nome dell'host verrà aggiornato sul sistema, ma non verrà applicato al server finché non verrà ricostruito.",
+    "341": "Il nome dell'host non è valido. Se si desidera rimuovere il nome dell'host, lasciare il campo vuoto."
 }

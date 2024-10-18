@@ -333,5 +333,9 @@
     "334": "Total",
     "335": "Système",
     "336": "Chargeur",
-    "337": "Matériel"
+    "337": "Matériel",
+    "338": "Les paramètres ont été mis à jour avec succès.",
+    "339": "Aucune modification n'a été apportée.",
+    "340": "Le nom d'hôte sera mis à jour sur le système mais ne sera pas appliqué au serveur tant qu'il ne sera pas reconstruit.",
+    "341": "Le nom d'hôte n'est pas valide. Si vous souhaitez supprimer le nom d'hôte, laissez le champ vide."
 }

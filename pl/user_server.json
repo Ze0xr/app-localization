@@ -333,5 +333,9 @@
     "334": "Łącznie",
     "335": "System",
     "336": "Ładowarka",
-    "337": "Sprzęt"
+    "337": "Sprzęt",
+    "338": "Ustawienia zostały pomyślnie zaktualizowane.",
+    "339": "Nie wprowadzono żadnych zmian.",
+    "340": "Nazwa hosta zostanie zaktualizowana w systemie, ale nie zostanie zastosowana do serwera, dopóki nie zostanie on przebudowany.",
+    "341": "Nazwa hosta jest nieprawidłowa. Jeśli chcesz usunąć nazwę hosta, pozostaw to pole puste."
 }

@@ -333,5 +333,9 @@
     "334": "Toplam",
     "335": "Sistem",
     "336": "Yükleyici",
-    "337": "Donanım"
+    "337": "Donanım",
+    "338": "Ayarlar başarıyla güncellendi.",
+    "339": "Herhangi bir değişiklik yapılmamıştır.",
+    "340": "Ana bilgisayar adı sistemde güncellenecek ancak yeniden oluşturulana kadar sunucuya uygulanmayacaktır.",
+    "341": "Ana bilgisayar adı geçersizdir. Ana bilgisayar adını kaldırmak istiyorsanız alanı boş bırakın."
 }

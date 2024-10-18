@@ -333,5 +333,9 @@
     "334": "Insgesamt",
     "335": "System",
     "336": "Lader",
-    "337": "Hardware"
+    "337": "Hardware",
+    "338": "Einstellungen erfolgreich aktualisiert.",
+    "339": "Es wurden keine Änderungen vorgenommen.",
+    "340": "Der Hostname wird auf dem System aktualisiert, aber nicht auf den Server angewendet, bis dieser neu erstellt wird.",
+    "341": "Der Hostname ist ungültig. Wenn Sie den Hostnamen entfernen möchten, lassen Sie das Feld leer."
 }

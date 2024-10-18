@@ -333,5 +333,9 @@
     "334": "Yhteensä",
     "335": "Järjestelmä",
     "336": "Kuormaaja",
-    "337": "Laitteisto"
+    "337": "Laitteisto",
+    "338": "Asetukset päivitettiin onnistuneesti.",
+    "339": "Muutoksia ei tehty.",
+    "340": "Isäntänimi päivitetään järjestelmässä, mutta sitä ei käytetä palvelimeen ennen kuin se rakennetaan uudelleen.",
+    "341": "Isäntänimi on virheellinen. Jos haluat poistaa isäntänimen, jätä kenttä tyhjäksi."
 }

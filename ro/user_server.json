@@ -333,5 +333,9 @@
     "334": "Total",
     "335": "Sistem",
     "336": "Încărcător",
-    "337": "Hardware"
+    "337": "Hardware",
+    "338": "Setările au fost actualizate cu succes.",
+    "339": "Nu s-au făcut modificări.",
+    "340": "Numele gazdei va fi actualizat pe sistem, dar nu va fi aplicat serverului până când nu este reconstruit.",
+    "341": "Numele gazdei este nevalid. Dacă doriți să eliminați numele gazdei, lăsați câmpul gol."
 }

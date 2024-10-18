@@ -333,5 +333,9 @@
     "334": "Total",
     "335": "Sistem",
     "336": "Pemuat",
-    "337": "Perangkat keras"
+    "337": "Perangkat keras",
+    "338": "Pengaturan berhasil diperbarui.",
+    "339": "Tidak ada perubahan yang dilakukan.",
+    "340": "Nama host akan diperbarui pada sistem tetapi tidak akan diterapkan pada server hingga server dibangun ulang.",
+    "341": "Nama host tidak valid. Jika Anda ingin menghapus nama host, biarkan bidang ini kosong."
 }

@@ -333,5 +333,9 @@
     "334": "Totalt",
     "335": "Systemet",
     "336": "Lastare",
-    "337": "Hårdvara"
+    "337": "Hårdvara",
+    "338": "Inställningarna uppdaterades framgångsrikt.",
+    "339": "Inga ändringar gjordes.",
+    "340": "Värdnamnet kommer att uppdateras på systemet men kommer inte att tillämpas på servern förrän det byggs om.",
+    "341": "Värdnamnet är ogiltigt. Om du vill ta bort värdnamnet lämnar du fältet tomt."
 }

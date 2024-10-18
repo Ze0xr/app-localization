@@ -333,5 +333,9 @@
     "334": "Celkom",
     "335": "Systém",
     "336": "Nakladač",
-    "337": "Hardvér"
+    "337": "Hardvér",
+    "338": "Nastavenia boli úspešne aktualizované.",
+    "339": "Neboli vykonané žiadne zmeny.",
+    "340": "Názov hostiteľa bude aktualizovaný v systéme, ale nebude použitý na serveri, kým nebude obnovený.",
+    "341": "Názov hostiteľa je neplatný. Ak chcete odstrániť názov hostiteľa, nechajte pole prázdne."
 }

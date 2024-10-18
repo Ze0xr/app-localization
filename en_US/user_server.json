@@ -333,5 +333,9 @@
     "335": "System",
     "336": "Loader",
     "205": "Created",
-    "337": "Hardware"
+    "337": "Hardware",
+    "338": "Settings updated successfully.",
+    "339": "No changes were made.",
+    "340": "The hostname will be updated on the system but will not be applied to the server until it is rebuilt.",
+    "341": "The hostname is invalid. If you wish to remove the hostname, leave the field blank."
 }

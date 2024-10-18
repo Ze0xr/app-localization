@@ -333,5 +333,9 @@
     "334": "Tổng",
     "335": "Hệ thống",
     "336": "Máy xúc lật",
-    "337": "Phần cứng"
+    "337": "Phần cứng",
+    "338": "Cài đặt được cập nhật thành công.",
+    "339": "Không có thay đổi nào được thực hiện.",
+    "340": "Tên máy chủ sẽ được cập nhật trên hệ thống nhưng sẽ không được áp dụng cho máy chủ cho đến khi nó được xây dựng lại.",
+    "341": "Tên máy chủ không hợp lệ. Nếu bạn muốn xóa tên máy chủ, hãy để trống trường."
 }

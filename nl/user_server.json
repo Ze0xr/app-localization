@@ -333,5 +333,9 @@
     "334": "Totaal",
     "335": "Systeem",
     "336": "Lader",
-    "337": "Hardware"
+    "337": "Hardware",
+    "338": "Instellingen succesvol bijgewerkt.",
+    "339": "Er werden geen wijzigingen aangebracht.",
+    "340": "De hostnaam wordt bijgewerkt op het systeem, maar wordt niet toegepast op de server totdat deze opnieuw is opgebouwd.",
+    "341": "De hostnaam is ongeldig. Als je de hostnaam wilt verwijderen, laat het veld dan leeg."
 }

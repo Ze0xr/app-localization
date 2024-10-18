@@ -333,5 +333,9 @@
     "334": "Ukupno",
     "335": "Sistem",
     "336": "Utovarivač",
-    "337": "Hardver"
+    "337": "Hardver",
+    "338": "Podešavanja su uspešno ažurirana.",
+    "339": "Nisu napravljene nikakve promene.",
+    "340": "Ime hosta će se ažurirati na sistemu, ali se neće primenjivati na server dok se ne obnovi.",
+    "341": "Ime hosta je nevažeće. Ako želite da uklonite ime hosta, ostavite polje prazno."
 }

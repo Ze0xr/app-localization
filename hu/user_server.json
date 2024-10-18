@@ -333,5 +333,9 @@
     "334": "Összesen",
     "335": "Rendszer",
     "336": "Rakodógép",
-    "337": "Hardver"
+    "337": "Hardver",
+    "338": "A beállítások sikeresen frissültek.",
+    "339": "Nem történt változás.",
+    "340": "A hosztnév frissül a rendszerben, de nem kerül alkalmazásra a kiszolgálón, amíg az újra nem épül.",
+    "341": "Az állomásnév érvénytelen. Ha el kívánja távolítani az állomásnevet, hagyja üresen a mezőt."
 }

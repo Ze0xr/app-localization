@@ -333,5 +333,9 @@
     "334": "I alt",
     "335": "System",
     "336": "Læsser",
-    "337": "Hardware"
+    "337": "Hardware",
+    "338": "Indstillingerne er blevet opdateret.",
+    "339": "Der blev ikke foretaget nogen ændringer.",
+    "340": "Værtsnavnet vil blive opdateret på systemet, men vil ikke blive anvendt på serveren, før den er genopbygget.",
+    "341": "Værtsnavnet er ugyldigt. Hvis du ønsker at fjerne værtsnavnet, skal du lade feltet være tomt."
 }
