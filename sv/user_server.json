@@ -337,5 +337,16 @@
     "338": "Inställningarna uppdaterades framgångsrikt.",
     "339": "Inga ändringar gjordes.",
     "340": "Värdnamnet kommer att uppdateras på systemet men kommer inte att tillämpas på servern förrän det byggs om.",
-    "341": "Värdnamnet är ogiltigt. Om du vill ta bort värdnamnet lämnar du fältet tomt."
+    "341": "Värdnamnet är ogiltigt. Om du vill ta bort värdnamnet lämnar du fältet tomt.",
+    "342": "Den angivna adressen är antingen felaktig eller matchar inte delnätet.",
+    "343": "Den angivna adressen har lagts till. En omstart krävs för att tillämpa konfigurationen.",
+    "344": "Ett okänt fel inträffade. Den angivna adressen kunde inte läggas till.",
+    "345": "Adressgränsen har nåtts.",
+    "346": "Den angivna adressen är reserverad.",
+    "347": "Den angivna adressen finns redan.",
+    "348": "Tilldela anpassad adress",
+    "349": "Spara",
+    "350": "Nästa sekventiella adress kommer att tilldelas servern.",
+    "351": "Tilldela",
+    "352": "Ange en adress"
 }

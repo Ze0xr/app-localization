@@ -337,5 +337,16 @@
     "338": "Les paramètres ont été mis à jour avec succès.",
     "339": "Aucune modification n'a été apportée.",
     "340": "Le nom d'hôte sera mis à jour sur le système mais ne sera pas appliqué au serveur tant qu'il ne sera pas reconstruit.",
-    "341": "Le nom d'hôte n'est pas valide. Si vous souhaitez supprimer le nom d'hôte, laissez le champ vide."
+    "341": "Le nom d'hôte n'est pas valide. Si vous souhaitez supprimer le nom d'hôte, laissez le champ vide.",
+    "342": "L'adresse spécifiée est incorrecte ou ne correspond pas au sous-réseau.",
+    "343": "L'adresse spécifiée a été ajoutée. Un redémarrage est nécessaire pour appliquer la configuration.",
+    "344": "Une erreur inconnue s'est produite. L'adresse spécifiée n'a pas pu être ajoutée.",
+    "345": "La limite d'adresses a été atteinte.",
+    "346": "L'adresse spécifiée est réservée.",
+    "347": "L'adresse spécifiée existe déjà.",
+    "348": "Attribuer une adresse personnalisée",
+    "349": "Économiser",
+    "350": "L'adresse séquentielle suivante sera attribuée au serveur.",
+    "351": "Attribuer",
+    "352": "Saisir une adresse"
 }

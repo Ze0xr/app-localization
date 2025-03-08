@@ -337,5 +337,16 @@
     "338": "Nastavenia boli úspešne aktualizované.",
     "339": "Neboli vykonané žiadne zmeny.",
     "340": "Názov hostiteľa bude aktualizovaný v systéme, ale nebude použitý na serveri, kým nebude obnovený.",
-    "341": "Názov hostiteľa je neplatný. Ak chcete odstrániť názov hostiteľa, nechajte pole prázdne."
+    "341": "Názov hostiteľa je neplatný. Ak chcete odstrániť názov hostiteľa, nechajte pole prázdne.",
+    "342": "Zadaná adresa je nesprávna alebo nezodpovedá podsieti.",
+    "343": "Zadaná adresa bola pridaná. Na použitie konfigurácie je potrebný reštart.",
+    "344": "Vyskytla sa neznáma chyba. Zadanú adresu nebolo možné pridať.",
+    "345": "Limit adries bol dosiahnutý.",
+    "346": "Zadaná adresa je rezervovaná.",
+    "347": "Zadaná adresa už existuje.",
+    "348": "Priradenie vlastnej adresy",
+    "349": "Uložiť",
+    "350": "Serveru sa pridelí ďalšia postupná adresa.",
+    "351": "Priradenie",
+    "352": "Zadajte adresu"
 }

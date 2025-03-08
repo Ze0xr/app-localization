@@ -337,5 +337,16 @@
     "338": "Pengaturan berhasil diperbarui.",
     "339": "Tidak ada perubahan yang dilakukan.",
     "340": "Nama host akan diperbarui pada sistem tetapi tidak akan diterapkan pada server hingga server dibangun ulang.",
-    "341": "Nama host tidak valid. Jika Anda ingin menghapus nama host, biarkan bidang ini kosong."
+    "341": "Nama host tidak valid. Jika Anda ingin menghapus nama host, biarkan bidang ini kosong.",
+    "342": "Alamat yang ditentukan salah atau tidak sesuai dengan subnet.",
+    "343": "Alamat yang ditentukan telah ditambahkan. Diperlukan reboot untuk menerapkan konfigurasi.",
+    "344": "Terjadi kesalahan yang tidak diketahui. Alamat yang ditentukan tidak dapat ditambahkan.",
+    "345": "Batas alamat telah tercapai.",
+    "346": "Alamat yang ditentukan sudah dicadangkan.",
+    "347": "Alamat yang ditentukan sudah ada.",
+    "348": "Menetapkan Alamat Khusus",
+    "349": "Simpan",
+    "350": "Alamat berurutan berikutnya akan ditetapkan ke server.",
+    "351": "Tetapkan",
+    "352": "Masukkan alamat"
 }

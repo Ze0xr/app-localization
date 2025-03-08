@@ -337,5 +337,16 @@
     "338": "Ustawienia zostały pomyślnie zaktualizowane.",
     "339": "Nie wprowadzono żadnych zmian.",
     "340": "Nazwa hosta zostanie zaktualizowana w systemie, ale nie zostanie zastosowana do serwera, dopóki nie zostanie on przebudowany.",
-    "341": "Nazwa hosta jest nieprawidłowa. Jeśli chcesz usunąć nazwę hosta, pozostaw to pole puste."
+    "341": "Nazwa hosta jest nieprawidłowa. Jeśli chcesz usunąć nazwę hosta, pozostaw to pole puste.",
+    "342": "Podany adres jest nieprawidłowy lub nie pasuje do podsieci.",
+    "343": "Określony adres został dodany. Do zastosowania konfiguracji wymagane jest ponowne uruchomienie komputera.",
+    "344": "Wystąpił nieznany błąd. Nie można było dodać określonego adresu.",
+    "345": "Limit adresów został osiągnięty.",
+    "346": "Podany adres jest zarezerwowany.",
+    "347": "Podany adres już istnieje.",
+    "348": "Przypisywanie adresu niestandardowego",
+    "349": "Zapisz",
+    "350": "Następny adres sekwencyjny zostanie przypisany do serwera.",
+    "351": "Przypisanie",
+    "352": "Wprowadź adres"
 }

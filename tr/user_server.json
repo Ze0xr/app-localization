@@ -337,5 +337,16 @@
     "338": "Ayarlar başarıyla güncellendi.",
     "339": "Herhangi bir değişiklik yapılmamıştır.",
     "340": "Ana bilgisayar adı sistemde güncellenecek ancak yeniden oluşturulana kadar sunucuya uygulanmayacaktır.",
-    "341": "Ana bilgisayar adı geçersizdir. Ana bilgisayar adını kaldırmak istiyorsanız alanı boş bırakın."
+    "341": "Ana bilgisayar adı geçersizdir. Ana bilgisayar adını kaldırmak istiyorsanız alanı boş bırakın.",
+    "342": "Belirtilen adres ya yanlış ya da alt ağla eşleşmiyor.",
+    "343": "Belirtilen adres eklendi. Yapılandırmayı uygulamak için yeniden başlatma gerekir.",
+    "344": "Bilinmeyen bir hata oluştu. Belirtilen adres eklenemedi.",
+    "345": "Adres sınırına ulaşıldı.",
+    "346": "Belirtilen adres rezerve edilmiştir.",
+    "347": "Belirtilen adres zaten mevcut.",
+    "348": "Özel Adres Atama",
+    "349": "Kaydet",
+    "350": "Bir sonraki sıralı adres sunucuya atanacaktır.",
+    "351": "Atama",
+    "352": "Bir adres girin"
 }

@@ -337,5 +337,16 @@
     "338": "Configurações atualizadas com sucesso.",
     "339": "Não foram feitas alterações.",
     "340": "O nome do host será atualizado no sistema, mas não será aplicado ao servidor até que ele seja reconstruído.",
-    "341": "O nome do host é inválido. Se você deseja remover o nome do host, deixe o campo em branco."
+    "341": "O nome do host é inválido. Se você deseja remover o nome do host, deixe o campo em branco.",
+    "342": "O endereço especificado está incorreto ou não corresponde à sub-rede.",
+    "343": "O endereço especificado foi adicionado. É necessário reiniciar o sistema para aplicar a configuração.",
+    "344": "Ocorreu um erro desconhecido. O endereço especificado não pôde ser adicionado.",
+    "345": "O limite de endereços foi atingido.",
+    "346": "O endereço especificado é reservado.",
+    "347": "O endereço especificado já existe.",
+    "348": "Atribuir endereço personalizado",
+    "349": "Salvar",
+    "350": "O próximo endereço sequencial será atribuído ao servidor.",
+    "351": "Atribuir",
+    "352": "Digite um endereço"
 }

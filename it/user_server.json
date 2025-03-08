@@ -337,5 +337,16 @@
     "338": "Le impostazioni sono state aggiornate con successo.",
     "339": "Non sono state apportate modifiche.",
     "340": "Il nome dell'host verrà aggiornato sul sistema, ma non verrà applicato al server finché non verrà ricostruito.",
-    "341": "Il nome dell'host non è valido. Se si desidera rimuovere il nome dell'host, lasciare il campo vuoto."
+    "341": "Il nome dell'host non è valido. Se si desidera rimuovere il nome dell'host, lasciare il campo vuoto.",
+    "342": "L'indirizzo specificato non è corretto o non corrisponde alla sottorete.",
+    "343": "L'indirizzo specificato è stato aggiunto. È necessario un riavvio per applicare la configurazione.",
+    "344": "Si è verificato un errore sconosciuto. Non è stato possibile aggiungere l'indirizzo specificato.",
+    "345": "Il limite di indirizzi è stato raggiunto.",
+    "346": "L'indirizzo specificato è riservato.",
+    "347": "L'indirizzo specificato esiste già.",
+    "348": "Assegnazione di un indirizzo personalizzato",
+    "349": "Risparmiare",
+    "350": "L'indirizzo sequenziale successivo verrà assegnato al server.",
+    "351": "Assegnazione",
+    "352": "Inserire un indirizzo"
 }

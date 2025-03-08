@@ -337,5 +337,16 @@
     "338": "Einstellungen erfolgreich aktualisiert.",
     "339": "Es wurden keine Änderungen vorgenommen.",
     "340": "Der Hostname wird auf dem System aktualisiert, aber nicht auf den Server angewendet, bis dieser neu erstellt wird.",
-    "341": "Der Hostname ist ungültig. Wenn Sie den Hostnamen entfernen möchten, lassen Sie das Feld leer."
+    "341": "Der Hostname ist ungültig. Wenn Sie den Hostnamen entfernen möchten, lassen Sie das Feld leer.",
+    "342": "Die angegebene Adresse ist entweder falsch oder stimmt nicht mit dem Teilnetz überein.",
+    "343": "Die angegebene Adresse wurde hinzugefügt. Um die Konfiguration zu übernehmen, ist ein Neustart erforderlich.",
+    "344": "Ein unbekannter Fehler ist aufgetreten. Die angegebene Adresse konnte nicht hinzugefügt werden.",
+    "345": "Das Adresslimit wurde erreicht.",
+    "346": "Die angegebene Adresse ist reserviert.",
+    "347": "Die angegebene Adresse existiert bereits.",
+    "348": "Benutzerdefinierte Adresse zuweisen",
+    "349": "Speichern Sie",
+    "350": "Die nächste fortlaufende Adresse wird dem Server zugewiesen.",
+    "351": "Zuweisen",
+    "352": "Geben Sie eine Adresse ein"
 }

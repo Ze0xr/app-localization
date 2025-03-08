@@ -337,5 +337,16 @@
     "338": "La configuración se ha actualizado correctamente.",
     "339": "No se han realizado cambios.",
     "340": "El nombre de host se actualizará en el sistema, pero no se aplicará al servidor hasta que se reconstruya.",
-    "341": "El nombre de host no es válido. Si desea eliminar el nombre de host, deje el campo en blanco."
+    "341": "El nombre de host no es válido. Si desea eliminar el nombre de host, deje el campo en blanco.",
+    "342": "La dirección especificada es incorrecta o no coincide con la subred.",
+    "343": "Se ha añadido la dirección especificada. Es necesario reiniciar para aplicar la configuración.",
+    "344": "Se ha producido un error desconocido. No se ha podido añadir la dirección especificada.",
+    "345": "Se ha alcanzado el límite de direcciones.",
+    "346": "La dirección especificada está reservada.",
+    "347": "La dirección especificada ya existe.",
+    "348": "Asignar dirección personalizada",
+    "349": "Guardar",
+    "350": "La siguiente dirección secuencial se asignará al servidor.",
+    "351": "Asignar",
+    "352": "Introduzca una dirección"
 }

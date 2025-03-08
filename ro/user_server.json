@@ -337,5 +337,16 @@
     "338": "Setările au fost actualizate cu succes.",
     "339": "Nu s-au făcut modificări.",
     "340": "Numele gazdei va fi actualizat pe sistem, dar nu va fi aplicat serverului până când nu este reconstruit.",
-    "341": "Numele gazdei este nevalid. Dacă doriți să eliminați numele gazdei, lăsați câmpul gol."
+    "341": "Numele gazdei este nevalid. Dacă doriți să eliminați numele gazdei, lăsați câmpul gol.",
+    "342": "Adresa specificată este fie incorectă, fie nu se potrivește cu subrețeaua.",
+    "343": "Adresa specificată a fost adăugată. Este necesară o repornire pentru a aplica configurația.",
+    "344": "A apărut o eroare necunoscută. Adresa specificată nu a putut fi adăugată.",
+    "345": "Limita de adresă a fost atinsă.",
+    "346": "Adresa specificată este rezervată.",
+    "347": "Adresa specificată există deja.",
+    "348": "Atribuiți adresă personalizată",
+    "349": "Salvați",
+    "350": "Următoarea adresă secvențială va fi atribuită serverului.",
+    "351": "Alocați",
+    "352": "Introduceți o adresă"
 }

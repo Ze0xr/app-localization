@@ -337,5 +337,16 @@
     "338": "Postavke su uspješno ažurirane.",
     "339": "Nisu napravljene nikakve promjene.",
     "340": "Naziv hosta bit će ažuriran na sustavu, ali se neće primijeniti na poslužitelj dok se ne obnovi.",
-    "341": "Naziv hosta je nevažeći. Ako želite ukloniti ime hosta, ostavite polje prazno."
+    "341": "Naziv hosta je nevažeći. Ako želite ukloniti ime hosta, ostavite polje prazno.",
+    "342": "Navedena adresa je ili netočna ili se ne podudara s podmrežom.",
+    "343": "Dodana je navedena adresa. Za primjenu konfiguracije potrebno je ponovno pokretanje.",
+    "344": "Došlo je do nepoznate pogreške. Navedena adresa nije mogla biti dodana.",
+    "345": "Ograničenje adrese je postignuto.",
+    "346": "Navedena adresa je rezervirana.",
+    "347": "Navedena adresa već postoji.",
+    "348": "Dodijelite prilagođenu adresu",
+    "349": "Sačuvaj",
+    "350": "Sljedeća sekvencijalna adresa bit će dodijeljena poslužitelju.",
+    "351": "Dodijelite",
+    "352": "Unesite adresu"
 }

@@ -337,5 +337,16 @@
     "338": "Indstillingerne er blevet opdateret.",
     "339": "Der blev ikke foretaget nogen ændringer.",
     "340": "Værtsnavnet vil blive opdateret på systemet, men vil ikke blive anvendt på serveren, før den er genopbygget.",
-    "341": "Værtsnavnet er ugyldigt. Hvis du ønsker at fjerne værtsnavnet, skal du lade feltet være tomt."
+    "341": "Værtsnavnet er ugyldigt. Hvis du ønsker at fjerne værtsnavnet, skal du lade feltet være tomt.",
+    "342": "Den angivne adresse er enten forkert eller passer ikke til subnettet.",
+    "343": "Den angivne adresse er blevet tilføjet. En genstart er nødvendig for at anvende konfigurationen.",
+    "344": "Der opstod en ukendt fejl. Den angivne adresse kunne ikke tilføjes.",
+    "345": "Adressegrænsen er nået.",
+    "346": "Den angivne adresse er reserveret.",
+    "347": "Den angivne adresse findes allerede.",
+    "348": "Tildel brugerdefineret adresse",
+    "349": "Gemme",
+    "350": "Den næste sekventielle adresse vil blive tildelt serveren.",
+    "351": "Tildel",
+    "352": "Indtast en adresse"
 }

@@ -337,5 +337,16 @@
     "338": "Instellingen succesvol bijgewerkt.",
     "339": "Er werden geen wijzigingen aangebracht.",
     "340": "De hostnaam wordt bijgewerkt op het systeem, maar wordt niet toegepast op de server totdat deze opnieuw is opgebouwd.",
-    "341": "De hostnaam is ongeldig. Als je de hostnaam wilt verwijderen, laat het veld dan leeg."
+    "341": "De hostnaam is ongeldig. Als je de hostnaam wilt verwijderen, laat het veld dan leeg.",
+    "342": "Het opgegeven adres is onjuist of komt niet overeen met het subnet.",
+    "343": "Het opgegeven adres is toegevoegd. Een herstart is vereist om de configuratie toe te passen.",
+    "344": "Er is een onbekende fout opgetreden. Het opgegeven adres kon niet worden toegevoegd.",
+    "345": "De adreslimiet is bereikt.",
+    "346": "Het opgegeven adres is gereserveerd.",
+    "347": "Het opgegeven adres bestaat al.",
+    "348": "Aangepast adres toewijzen",
+    "349": "Sla",
+    "350": "Het volgende opeenvolgende adres wordt toegewezen aan de server.",
+    "351": "Toewijzen",
+    "352": "Voer een adres in"
 }

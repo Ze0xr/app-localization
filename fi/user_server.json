@@ -337,5 +337,16 @@
     "338": "Asetukset päivitettiin onnistuneesti.",
     "339": "Muutoksia ei tehty.",
     "340": "Isäntänimi päivitetään järjestelmässä, mutta sitä ei käytetä palvelimeen ennen kuin se rakennetaan uudelleen.",
-    "341": "Isäntänimi on virheellinen. Jos haluat poistaa isäntänimen, jätä kenttä tyhjäksi."
+    "341": "Isäntänimi on virheellinen. Jos haluat poistaa isäntänimen, jätä kenttä tyhjäksi.",
+    "342": "Määritetty osoite on joko virheellinen tai ei vastaa aliverkkoa.",
+    "343": "Määritetty osoite on lisätty. Kokoonpanon käyttäminen edellyttää uudelleenkäynnistystä.",
+    "344": "Tuntematon virhe tapahtui. Määritettyä osoitetta ei voitu lisätä.",
+    "345": "Osoiteraja on saavutettu.",
+    "346": "Määritetty osoite on varattu.",
+    "347": "Määritetty osoite on jo olemassa.",
+    "348": "Määritä mukautettu osoite",
+    "349": "Tallentaa",
+    "350": "Seuraava peräkkäinen osoite määritetään palvelimelle.",
+    "351": "Määritä",
+    "352": "Anna osoite"
 }

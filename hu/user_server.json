@@ -337,5 +337,16 @@
     "338": "A beállítások sikeresen frissültek.",
     "339": "Nem történt változás.",
     "340": "A hosztnév frissül a rendszerben, de nem kerül alkalmazásra a kiszolgálón, amíg az újra nem épül.",
-    "341": "Az állomásnév érvénytelen. Ha el kívánja távolítani az állomásnevet, hagyja üresen a mezőt."
+    "341": "Az állomásnév érvénytelen. Ha el kívánja távolítani az állomásnevet, hagyja üresen a mezőt.",
+    "342": "A megadott cím vagy helytelen, vagy nem felel meg az alhálózatnak.",
+    "343": "A megadott cím hozzáadásra került. A konfiguráció alkalmazásához újraindítás szükséges.",
+    "344": "Ismeretlen hiba történt. A megadott címet nem lehetett hozzáadni.",
+    "345": "A címhatár elérte a határt.",
+    "346": "A megadott cím foglalt.",
+    "347": "A megadott cím már létezik.",
+    "348": "Egyéni cím hozzárendelése",
+    "349": "Mentés",
+    "350": "A következő szekvenciális cím lesz hozzárendelve a kiszolgálóhoz.",
+    "351": "Hozzárendelés",
+    "352": "Adjon meg egy címet"
 }

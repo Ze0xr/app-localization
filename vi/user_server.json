@@ -337,5 +337,16 @@
     "338": "Cài đặt được cập nhật thành công.",
     "339": "Không có thay đổi nào được thực hiện.",
     "340": "Tên máy chủ sẽ được cập nhật trên hệ thống nhưng sẽ không được áp dụng cho máy chủ cho đến khi nó được xây dựng lại.",
-    "341": "Tên máy chủ không hợp lệ. Nếu bạn muốn xóa tên máy chủ, hãy để trống trường."
+    "341": "Tên máy chủ không hợp lệ. Nếu bạn muốn xóa tên máy chủ, hãy để trống trường.",
+    "342": "Địa chỉ được chỉ định không chính xác hoặc không khớp với mạng con.",
+    "343": "Địa chỉ được chỉ định đã được thêm vào. Cần khởi động lại để áp dụng cấu hình.",
+    "344": "Một lỗi không xác định đã xảy ra. Địa chỉ được chỉ định không thể được thêm vào.",
+    "345": "Giới hạn địa chỉ đã đạt được.",
+    "346": "Địa chỉ được chỉ định được bảo lưu.",
+    "347": "Địa chỉ được chỉ định đã tồn tại.",
+    "348": "Chỉ định địa chỉ tùy chỉnh",
+    "349": "Tiết kiệm",
+    "350": "Địa chỉ tuần tự tiếp theo sẽ được gán cho máy chủ.",
+    "351": "Chỉ định",
+    "352": "Nhập địa chỉ"
 }

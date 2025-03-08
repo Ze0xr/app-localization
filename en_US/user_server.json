@@ -337,5 +337,16 @@
     "338": "Settings updated successfully.",
     "339": "No changes were made.",
     "340": "The hostname will be updated on the system but will not be applied to the server until it is rebuilt.",
-    "341": "The hostname is invalid. If you wish to remove the hostname, leave the field blank."
+    "341": "The hostname is invalid. If you wish to remove the hostname, leave the field blank.",
+    "342": "The specified address is either incorrect or does not match the subnet.",
+    "343": "The specified address has been added. A reboot is required to apply the configuration.",
+    "344": "An unknown error occurred. The specified address could not be added.",
+    "345": "The address limit has been reached.",
+    "346": "The specified address is reserved.",
+    "347": "The specified address already exists.",
+    "348": "Assign Custom Address",
+    "349": "Save",
+    "350": "The next sequential address will be assigned to the server.",
+    "351": "Assign",
+    "352": "Enter an address"
 }

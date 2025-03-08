@@ -337,5 +337,16 @@
     "338": "Nastavitve so bile uspešno posodobljene.",
     "339": "Spremembe niso bile izvedene.",
     "340": "Ime gostitelja bo posodobljeno v sistemu, vendar ne bo uporabljeno v strežniku, dokler ne bo ponovno vzpostavljen.",
-    "341": "Ime gostitelja je neveljavno. Če želite odstraniti ime gostitelja, pustite polje prazno."
+    "341": "Ime gostitelja je neveljavno. Če želite odstraniti ime gostitelja, pustite polje prazno.",
+    "342": "Navedeni naslov je napačen ali se ne ujema s podomrežjem.",
+    "343": "Navedeni naslov je bil dodan. Za uporabo konfiguracije je potreben ponovni zagon.",
+    "344": "Pojavila se je neznana napaka. Določenega naslova ni bilo mogoče dodati.",
+    "345": "Omejitev naslovov je bila dosežena.",
+    "346": "Navedeni naslov je rezerviran.",
+    "347": "Navedeni naslov že obstaja.",
+    "348": "Dodelitev naslova po meri",
+    "349": "Shrani",
+    "350": "Naslednji zaporedni naslov bo dodeljen strežniku.",
+    "351": "Dodelitev",
+    "352": "Vnesite naslov"
 }
