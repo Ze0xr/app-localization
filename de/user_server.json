@@ -348,5 +348,19 @@
     "349": "Speichern Sie",
     "350": "Die nächste fortlaufende Adresse wird dem Server zugewiesen.",
     "351": "Zuweisen",
-    "352": "Geben Sie eine Adresse ein"
+    "352": "Geben Sie eine Adresse ein",
+    "353": "Einstellungen",
+    "354": "Bootstyp",
+    "355": "BIOS (Legacy-Modus)",
+    "356": "UEFI",
+    "357": "Dies ist die ältere Boot-Methode, die sich auf das Basic Input\/Output System stützt. Sie verwendet den Master Boot Record (MBR) für die Festplattenpartitionierung und ist mit älteren Betriebssystemen und Hardware kompatibel.",
+    "358": "Es ist der moderne Ersatz für BIOS und unterstützt GUID Partition Table (GPT), was größere Festplatten und mehr Partitionen ermöglicht.",
+    "359": "Ein Neustart ist erforderlich, um die Änderungen auf dem Server zu übernehmen.",
+    "360": "Es ist ein Fehler aufgetreten, die Einstellungen konnten nicht aktualisiert werden.",
+    "361": "Automatische Konfiguration",
+    "362": "Die automatische Konfiguration sollte aktiviert bleiben, wenn Sie eines der vorgefertigten Betriebssysteme verwenden, da sie sicherstellt, dass wichtige Netzwerkeinstellungen und -konfigurationen automatisch übernommen werden. Wenn Sie jedoch ein benutzerdefiniertes Betriebssystem installiert haben, können Sie die automatische Konfiguration deaktivieren und die erforderlichen Einstellungen innerhalb des Servers manuell konfigurieren, um sie an Ihre speziellen Anforderungen anzupassen.",
+    "363": "Keine",
+    "364": "Platz tauschen",
+    "365": "Der Swap-Speicher dient als Backup-Speicher und verhindert Systemabstürze, wenn der physische Speicher nicht mehr ausreicht. Obwohl der Swap-Speicher langsamer ist als der physische Speicher, trägt er zur Systemstabilität und zum reibungslosen Betrieb bei. Beachten Sie, dass die von Ihnen gewählte Menge an Swap-Speicher auf Ihrer Festplatte reserviert wird.",
+    "366": "Alle Optionen anzeigen"
 }

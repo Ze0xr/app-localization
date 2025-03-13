@@ -348,5 +348,19 @@
     "349": "Kaydet",
     "350": "Bir sonraki sıralı adres sunucuya atanacaktır.",
     "351": "Atama",
-    "352": "Bir adres girin"
+    "352": "Bir adres girin",
+    "353": "Ayarlar",
+    "354": "Tekne Tipi",
+    "355": "BIOS (Eski Mod)",
+    "356": "UEFI",
+    "357": "Bu, Temel Giriş\/Çıkış Sistemine dayanan eski önyükleme yöntemidir. Disk bölümleme için Ana Önyükleme Kaydını (MBR) kullanır ve eski işletim sistemleri ve donanımlarla uyumludur.",
+    "358": "Bu BIOS için modern bir alternatiftir. GUID Bölümleme Tablosunu (GPT) destekler, daha büyük disk boyutlarına ve daha fazla bölüme izin verir.",
+    "359": "Ayarlar güncellendi. Değişiklikleri sunucuya uygulamak için yeniden başlatma gerekir.",
+    "360": "Bir hata oluştu. Ayarlar güncellenemedi.",
+    "361": "Otomatik Yapılandırma",
+    "362": "Otomatik Yapılandırma, temel ağ ayarlarının ve yapılandırmalarının otomatik olarak uygulanmasını sağladığından, önceden oluşturulmuş işletim sistemlerinden birini kullanırken etkin kalmalıdır. Ancak, özel bir işletim sistemi kurduysanız, Otomatik Yapılandırmayı devre dışı bırakmayı ve sunucu içindeki gerekli ayarları özel gereksinimlerinize uyacak şekilde manuel olarak yapılandırmayı seçebilirsiniz.",
+    "363": "Hiçbiri",
+    "364": "Takas Alanı",
+    "365": "Takas alanı yedek bellek görevi görerek sisteminizde fiziksel bellek kalmadığında çökmeleri önler. Takas alanı fiziksel bellekten daha yavaş olsa da sistem kararlılığının korunmasına ve sorunsuz çalışmasına yardımcı olur. Seçtiğiniz takas alanı miktarının depolama diskinizde ayrılacağını unutmayın.",
+    "366": "Tüm Seçenekleri Görüntüle"
 }

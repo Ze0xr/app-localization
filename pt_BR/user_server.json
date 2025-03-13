@@ -348,5 +348,19 @@
     "349": "Salvar",
     "350": "O próximo endereço sequencial será atribuído ao servidor.",
     "351": "Atribuir",
-    "352": "Digite um endereço"
+    "352": "Digite um endereço",
+    "353": "Configurações",
+    "354": "Tipo de barco",
+    "355": "BIOS (modo legado)",
+    "356": "UEFI",
+    "357": "Esse é o método de inicialização mais antigo que se baseia no Sistema Básico de Entrada\/Saída. Ele usa o MBR (Master Boot Record) para o particionamento do disco e é compatível com sistemas operacionais e hardware mais antigos.",
+    "358": "É o substituto moderno do BIOS e oferece suporte à tabela de partição GUID (GPT), o que permite tamanhos de disco maiores e mais partições.",
+    "359": "Configurações atualizadas. É necessário reiniciar o sistema para aplicar as alterações ao servidor.",
+    "360": "Ocorreu um erro e as configurações não puderam ser atualizadas.",
+    "361": "Configuração automática",
+    "362": "O Auto Configuration deve permanecer ativado ao usar um dos sistemas operacionais pré-construídos, pois garante que as definições e configurações de rede essenciais sejam aplicadas automaticamente. Entretanto, se você tiver instalado um sistema operacional personalizado, poderá optar por desativar o Auto Configuration e definir manualmente as configurações necessárias no servidor para atender aos seus requisitos específicos.",
+    "363": "Nenhum",
+    "364": "Espaço de troca",
+    "365": "O espaço de swap funciona como memória de backup, evitando falhas quando o sistema fica sem memória física. Embora o espaço de swap seja mais lento do que a memória física, ele ajuda a manter a estabilidade do sistema e a operação suave. Lembre-se de que a quantidade de espaço de swap escolhida será reservada no disco de armazenamento.",
+    "366": "Exibir todas as opções"
 }

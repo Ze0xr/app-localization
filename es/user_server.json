@@ -348,5 +348,19 @@
     "349": "Guardar",
     "350": "La siguiente dirección secuencial se asignará al servidor.",
     "351": "Asignar",
-    "352": "Introduzca una dirección"
+    "352": "Introduzca una dirección",
+    "353": "Ajustes",
+    "354": "Tipo de barco",
+    "355": "BIOS (modo heredado)",
+    "356": "UEFI",
+    "357": "Este es el método de arranque más antiguo que se basa en el Sistema Básico de Entrada\/Salida. Utiliza el Registro Maestro de Arranque (MBR) para particionar el disco y es compatible con sistemas operativos y hardware antiguos.",
+    "358": "Es el sustituto moderno de la BIOS. Soporta GUID Partition Table (GPT), lo que permite discos de mayor tamaño y más particiones.",
+    "359": "Se requiere un reinicio para aplicar los cambios al servidor.",
+    "360": "Se ha producido un error. No se ha podido actualizar la configuración.",
+    "361": "Configuración automática",
+    "362": "La configuración automática debe permanecer activada cuando se utiliza uno de los sistemas operativos preinstalados, ya que garantiza que los ajustes y configuraciones de red esenciales se apliquen automáticamente. Sin embargo, si ha instalado un sistema operativo personalizado, puede optar por desactivar la configuración automática y configurar manualmente los ajustes necesarios en el servidor para adaptarlos a sus requisitos específicos.",
+    "363": "Ninguno",
+    "364": "Espacio de intercambio",
+    "365": "El espacio de intercambio actúa como memoria de reserva, evitando fallos cuando el sistema se queda sin memoria física. Aunque el espacio de intercambio es más lento que la memoria física, ayuda a mantener la estabilidad y el buen funcionamiento del sistema. Tenga en cuenta que la cantidad de espacio de intercambio que elija se reservará en su disco de almacenamiento.",
+    "366": "Ver todas las opciones"
 }

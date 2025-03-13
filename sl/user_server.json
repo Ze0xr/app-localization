@@ -348,5 +348,19 @@
     "349": "Shrani",
     "350": "Naslednji zaporedni naslov bo dodeljen strežniku.",
     "351": "Dodelitev",
-    "352": "Vnesite naslov"
+    "352": "Vnesite naslov",
+    "353": "Nastavitve",
+    "354": "Vrsta čolna",
+    "355": "BIOS (starejši način)",
+    "356": "UEFI",
+    "357": "To je starejši način zagona, ki temelji na osnovnem vhodno-izhodnem sistemu (Basic Input\/Output System). Za razdelitev diska uporablja glavni zagonski zapis (MBR) in je združljiv s starejšimi operacijskimi sistemi in strojno opremo.",
+    "358": "To je sodobna zamenjava za BIOS. Podpira tabelo razdelkov GUID (GPT), kar omogoča večje velikosti diskov in več razdelkov.",
+    "359": "Nastavitve so posodobljene. Za uporabo sprememb v strežniku je potreben ponovni zagon.",
+    "360": "Zgodila se je napaka. Nastavitev ni bilo mogoče posodobiti.",
+    "361": "Samodejna konfiguracija",
+    "362": "Če uporabljate enega od vnaprej pripravljenih operacijskih sistemov, mora samodejna konfiguracija ostati omogočena, saj zagotavlja samodejno uporabo bistvenih omrežnih nastavitev in konfiguracij. Če pa ste namestili prilagojen operacijski sistem, lahko samodejno konfiguracijo onemogočite in ročno konfigurirate potrebne nastavitve v strežniku glede na svoje posebne zahteve.",
+    "363": "Ni",
+    "364": "Prostor za zamenjavo",
+    "365": "Prostor za zamenjavo deluje kot rezervni pomnilnik in preprečuje okvare, ko sistemu zmanjka fizičnega pomnilnika. Čeprav je prostor za zamenjavo počasnejši od fizičnega pomnilnika, pomaga ohranjati stabilnost in nemoteno delovanje sistema. Ne pozabite, da bo izbrana količina prostora za zamenjavo rezervirana na vašem pomnilniškem disku.",
+    "366": "Oglejte si vse možnosti"
 }

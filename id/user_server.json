@@ -348,5 +348,19 @@
     "349": "Simpan",
     "350": "Alamat berurutan berikutnya akan ditetapkan ke server.",
     "351": "Tetapkan",
-    "352": "Masukkan alamat"
+    "352": "Masukkan alamat",
+    "353": "Pengaturan",
+    "354": "Jenis Perahu",
+    "355": "BIOS (Mode Lama)",
+    "356": "UEFI",
+    "357": "Ini adalah metode boot lama yang mengandalkan Sistem Input\/Output Dasar. Metode ini menggunakan Master Boot Record (MBR) untuk partisi disk dan kompatibel dengan sistem operasi dan perangkat keras yang lebih lama.",
+    "358": "Ini adalah pengganti modern untuk BIOS. Ini mendukung GUID Partition Table (GPT), yang memungkinkan ukuran disk yang lebih besar dan lebih banyak partisi.",
+    "359": "Pengaturan diperbarui. Diperlukan restart untuk menerapkan perubahan pada server.",
+    "360": "Terjadi kesalahan. Pengaturan tidak dapat diperbarui.",
+    "361": "Konfigurasi Otomatis",
+    "362": "Konfigurasi Otomatis harus tetap diaktifkan saat menggunakan salah satu sistem operasi prebuilt, karena ini memastikan bahwa pengaturan dan konfigurasi jaringan yang penting diterapkan secara otomatis. Namun, jika Anda telah menginstal sistem operasi khusus, Anda dapat memilih untuk menonaktifkan Konfigurasi Otomatis dan secara manual mengonfigurasi pengaturan yang diperlukan di dalam server agar sesuai dengan kebutuhan spesifik Anda.",
+    "363": "Tidak ada",
+    "364": "Tukar Ruang",
+    "365": "Ruang swap berfungsi sebagai memori cadangan, mencegah kerusakan saat sistem kehabisan memori fisik. Meskipun ruang swap lebih lambat daripada memori fisik, ruang swap membantu menjaga stabilitas sistem dan kelancaran operasi. Ingatlah bahwa jumlah ruang swap yang Anda pilih akan dicadangkan di disk penyimpanan.",
+    "366": "Lihat semua Opsi"
 }

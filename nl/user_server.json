@@ -348,5 +348,19 @@
     "349": "Sla",
     "350": "Het volgende opeenvolgende adres wordt toegewezen aan de server.",
     "351": "Toewijzen",
-    "352": "Voer een adres in"
+    "352": "Voer een adres in",
+    "353": "Instellingen",
+    "354": "Type boot",
+    "355": "BIOS (legacy-modus)",
+    "356": "UEFI",
+    "357": "Dit is de oudere bootmethode die vertrouwt op het Basic Input\/Output System. Het gebruikt de Master Boot Record (MBR) voor schijfpartitionering en is compatibel met oudere besturingssystemen en hardware.",
+    "358": "Dit is de moderne vervanging voor BIOS. Het ondersteunt GUID Partition Table (GPT), waardoor grotere schijven en meer partities mogelijk zijn.",
+    "359": "Instellingen bijgewerkt. Er is een herstart nodig om de wijzigingen toe te passen op de server.",
+    "360": "Er is een fout opgetreden. De instellingen konden niet worden bijgewerkt.",
+    "361": "Automatische configuratie",
+    "362": "Automatische configuratie moet ingeschakeld blijven als je een van de voorgeconfigureerde besturingssystemen gebruikt, omdat het ervoor zorgt dat essentiële netwerkinstellingen en -configuraties automatisch worden toegepast. Als je echter een aangepast besturingssysteem hebt geïnstalleerd, kun je ervoor kiezen om Automatische configuratie uit te schakelen en handmatig de nodige instellingen binnen de server te configureren om aan je specifieke vereisten te voldoen.",
+    "363": "Geen",
+    "364": "Swap Space",
+    "365": "Swapruimte fungeert als back-upgeheugen en voorkomt crashes wanneer je systeem geen fysiek geheugen meer heeft. Hoewel swapruimte langzamer is dan fysiek geheugen, helpt het om de stabiliteit van het systeem en een soepele werking te behouden. Houd er rekening mee dat de hoeveelheid swapruimte die je kiest, wordt gereserveerd op je opslagschijf.",
+    "366": "Alle opties bekijken"
 }

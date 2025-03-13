@@ -348,5 +348,19 @@
     "349": "Mentés",
     "350": "A következő szekvenciális cím lesz hozzárendelve a kiszolgálóhoz.",
     "351": "Hozzárendelés",
-    "352": "Adjon meg egy címet"
+    "352": "Adjon meg egy címet",
+    "353": "Beállítások",
+    "354": "Hajó típusa",
+    "355": "BIOS (Legacy mód)",
+    "356": "UEFI",
+    "357": "Ez a régebbi rendszerindítási módszer, amely a Basic Input\/Output Systemre támaszkodik. A lemez partícionálásához a Master Boot Recordot (MBR) használja, és kompatibilis a régebbi operációs rendszerekkel és hardverekkel.",
+    "358": "Ez a BIOS modern helyettesítője. Támogatja a GUID partíciós táblát (GPT), ami nagyobb lemezméreteket és több partíciót tesz lehetővé.",
+    "359": "A beállítások frissítése. A módosítások kiszolgálón történő alkalmazásához újraindításra van szükség.",
+    "360": "Hiba történt, a beállításokat nem lehetett frissíteni.",
+    "361": "Automatikus konfiguráció",
+    "362": "Az Automatikus konfigurációnak bekapcsolva kell maradnia, ha az előre elkészített operációs rendszerek valamelyikét használja, mivel biztosítja, hogy az alapvető hálózati beállítások és konfigurációk automatikusan alkalmazásra kerüljenek. Ha azonban egyéni operációs rendszert telepített, letilthatja az Automatikus konfigurációt, és kézzel konfigurálhatja a szükséges beállításokat a kiszolgálón belül az egyedi igényeinek megfelelően.",
+    "363": "Nincs",
+    "364": "Swap Space",
+    "365": "A swapterület tartalék memóriaként működik, és megakadályozza a rendszer összeomlását, amikor a fizikai memória elfogy. Bár a swapterület lassabb, mint a fizikai memória, segít fenntartani a rendszer stabilitását és zökkenőmentes működését. Ne feledje, hogy a választott swapterület mennyisége a tárolólemezen lesz lefoglalva.",
+    "366": "Minden opció megtekintése"
 }

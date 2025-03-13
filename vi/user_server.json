@@ -348,5 +348,19 @@
     "349": "Tiết kiệm",
     "350": "Địa chỉ tuần tự tiếp theo sẽ được gán cho máy chủ.",
     "351": "Chỉ định",
-    "352": "Nhập địa chỉ"
+    "352": "Nhập địa chỉ",
+    "353": "Cài đặt",
+    "354": "Loại khởi động",
+    "355": "BIOS (Chế độ kế thừa)",
+    "356": "UEFI",
+    "357": "Đây là phương thức khởi động cũ hơn dựa vào Hệ thống đầu vào\/đầu ra cơ bản. Nó sử dụng Master Boot Record (MBR) để phân vùng đĩa và tương thích với các hệ điều hành và phần cứng cũ hơn.",
+    "358": "Đây là sự thay thế hiện đại cho BIOS. Nó hỗ trợ GUID Partition Table (GPT), cho phép kích thước đĩa lớn hơn và nhiều phân vùng hơn.",
+    "359": "Cài đặt được cập nhật. Bắt buộc phải khởi động lại để áp dụng các thay đổi cho máy chủ.",
+    "360": "Đã xảy ra lỗi. Cài đặt không thể được cập nhật.",
+    "361": "Cấu hình tự động",
+    "362": "Tự động cấu hình nên vẫn được bật khi sử dụng một trong các hệ điều hành được xây dựng sẵn, vì nó đảm bảo rằng các cài đặt và cấu hình mạng thiết yếu được áp dụng tự động. Tuy nhiên, nếu bạn đã cài đặt một hệ điều hành tùy chỉnh, bạn có thể chọn tắt Cấu hình Tự động và định cấu hình thủ công các cài đặt cần thiết trong máy chủ để phù hợp với yêu cầu cụ thể của bạn.",
+    "363": "Không",
+    "364": "Hoán đổi không gian",
+    "365": "Không gian hoán đổi hoạt động như bộ nhớ sao lưu, ngăn chặn sự cố khi hệ thống của bạn hết bộ nhớ vật lý. Mặc dù không gian swap chậm hơn bộ nhớ vật lý, nhưng nó giúp duy trì sự ổn định của hệ thống và hoạt động trơn tru. Hãy nhớ rằng dung lượng hoán đổi bạn chọn sẽ được dành riêng trên đĩa lưu trữ của bạn.",
+    "366": "Xem tất cả các tùy chọn"
 }

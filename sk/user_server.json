@@ -348,5 +348,19 @@
     "349": "Uložiť",
     "350": "Serveru sa pridelí ďalšia postupná adresa.",
     "351": "Priradenie",
-    "352": "Zadajte adresu"
+    "352": "Zadajte adresu",
+    "353": "Nastavenia",
+    "354": "Typ lode",
+    "355": "BIOS (starší režim)",
+    "356": "UEFI",
+    "357": "Ide o staršiu metódu zavádzania, ktorá sa spolieha na základný vstupno-výstupný systém. Na rozdelenie disku používa hlavný zavádzací záznam (MBR) a je kompatibilná so staršími operačnými systémami a hardvérom.",
+    "358": "Ide o modernú náhradu systému BIOS. Podporuje tabuľku diskových oddielov GUID (GPT), čo umožňuje väčšie veľkosti diskov a viac oddielov.",
+    "359": "Nastavenia sa aktualizujú. Na uplatnenie zmien na serveri je potrebný reštart.",
+    "360": "Vyskytla sa chyba. Nastavenia nebolo možné aktualizovať.",
+    "361": "Automatická konfigurácia",
+    "362": "Funkcia Auto Configuration by mala zostať zapnutá, ak používate niektorý z predinštalovaných operačných systémov, pretože zabezpečuje automatické použitie základných sieťových nastavení a konfigurácií. Ak ste však nainštalovali vlastný operačný systém, môžete sa rozhodnúť vypnúť funkciu Auto Configuration a ručne nakonfigurovať potrebné nastavenia v rámci servera tak, aby vyhovovali vašim špecifickým požiadavkám.",
+    "363": "Žiadne",
+    "364": "Vymeniť priestor",
+    "365": "Odkladací priestor slúži ako záložná pamäť a zabraňuje pádom, keď sa systému vyčerpá fyzická pamäť. Hoci je odkladací priestor pomalší ako fyzická pamäť, pomáha udržiavať stabilitu a plynulý chod systému. Nezabudnite, že množstvo odkladacieho priestoru, ktoré si vyberiete, bude rezervované na vašom úložnom disku.",
+    "366": "Zobraziť všetky možnosti"
 }

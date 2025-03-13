@@ -348,5 +348,19 @@
     "349": "Salvați",
     "350": "Următoarea adresă secvențială va fi atribuită serverului.",
     "351": "Alocați",
-    "352": "Introduceți o adresă"
+    "352": "Introduceți o adresă",
+    "353": "Setări",
+    "354": "Tipul portbagajului",
+    "355": "BIOS (modul Legacy)",
+    "356": "UEFI",
+    "357": "Aceasta este metoda de pornire mai veche care se bazează pe sistemul de intrare\/ieșire de bază. Utilizează Master Boot Record (MBR) pentru partiționarea discului și este compatibil cu sistemele de operare și hardware-ul mai vechi.",
+    "358": "Acesta este înlocuitorul modern pentru BIOS. Acceptă GUID Partition Table (GPT), permițând dimensiuni mai mari ale discului și mai multe partiții.",
+    "359": "Setări actualizate. Este necesară o repornire pentru a aplica modificările pe server.",
+    "360": "A apărut o eroare. Setările nu au putut fi actualizate.",
+    "361": "Configurare automată",
+    "362": "Configurarea automată ar trebui să rămână activată atunci când utilizați unul dintre sistemele de operare preconstruite, deoarece asigură că setările și configurațiile esențiale de rețea sunt aplicate automat. Cu toate acestea, dacă ați instalat un sistem de operare personalizat, puteți alege să dezactivați Configurarea automată și să configurați manual setările necesare în cadrul serverului pentru a se potrivi cerințelor dvs. specifice.",
+    "363": "Niciuna",
+    "364": "Spațiu de schimb",
+    "365": "Spațiul swap acționează ca memorie de rezervă, prevenind blocările atunci când sistemul dvs. rămâne fără memorie fizică. Deși spațiul swap este mai lent decât memoria fizică, ajută la menținerea stabilității sistemului și a funcționării fără probleme. Rețineți că cantitatea de spațiu swap pe care o alegeți va fi rezervată pe discul dvs. de stocare.",
+    "366": "Vezi toate Opțiunile"
 }

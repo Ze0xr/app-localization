@@ -348,5 +348,19 @@
     "349": "Sačuvaj",
     "350": "Sljedeća sekvencijalna adresa bit će dodijeljena poslužitelju.",
     "351": "Dodijelite",
-    "352": "Unesite adresu"
+    "352": "Unesite adresu",
+    "353": "Postavke",
+    "354": "Vrsta čizme",
+    "355": "BIOS (naslijeđeni način rada)",
+    "356": "UEFI",
+    "357": "Ovo je starija metoda pokretanja koja se oslanja na osnovni ulazno\/izlazni sustav. Koristi Master Boot Record (MBR) za particioniranje diska i kompatibilan je sa starijim operativnim sustavima i hardverom.",
+    "358": "Ovo je moderna zamjena za BIOS. Podržava GUID particijsku tablicu (GPT), omogućujući veće veličine diska i više particija.",
+    "359": "Postavke su ažurirane. Za primjenu promjena na poslužitelj potrebno je ponovno pokretanje.",
+    "360": "Došlo je do pogreške. Postavke se nisu mogle ažurirati.",
+    "361": "Automatska konfiguracija",
+    "362": "Automatska konfiguracija trebala bi ostati omogućena kada koristite jedan od unaprijed ugrađenih operativnih sustava, jer osigurava automatsku primjenu osnovnih mrežnih postavki i konfiguracija. Međutim, ako ste instalirali prilagođeni operativni sustav, možete onemogućiti automatsku konfiguraciju i ručno konfigurirati potrebne postavke unutar poslužitelja kako bi odgovarale vašim specifičnim zahtjevima.",
+    "363": "Ništa",
+    "364": "Zamijenite prostor",
+    "365": "Zamjenski prostor djeluje kao sigurnosna memorija, sprječavajući padove kada vašem sustavu ponestane fizičke memorije. Iako je zamjenski prostor sporiji od fizičke memorije, pomaže u održavanju stabilnosti sustava i nesmetanom radu. Imajte na umu da će količina zamjenskog prostora koju odaberete biti rezervirana na vašem disku za pohranu.",
+    "366": "Pogledaj sve opcije"
 }

@@ -348,5 +348,19 @@
     "349": "Tallentaa",
     "350": "Seuraava peräkkäinen osoite määritetään palvelimelle.",
     "351": "Määritä",
-    "352": "Anna osoite"
+    "352": "Anna osoite",
+    "353": "Asetukset",
+    "354": "Kengän tyyppi",
+    "355": "BIOS (Legacy-tila)",
+    "356": "UEFI",
+    "357": "Tämä on vanhempi käynnistysmenetelmä, joka perustuu Basic Input\/Output -järjestelmään. Se käyttää Master Boot Record (MBR) levyn osiointiin ja on yhteensopiva vanhempien käyttöjärjestelmien ja laitteistojen kanssa.",
+    "358": "Tämä on nykyaikainen korvaus BIOSille. Se tukee GUID-osiotaulukkoa (GPT), mikä mahdollistaa suuremmat levykoot ja enemmän osioita.",
+    "359": "Asetukset päivitetty. Uudelleenkäynnistys vaaditaan muutosten tekemiseksi palvelimeen.",
+    "360": "Tapahtui virhe. Asetuksia ei voitu päivittää.",
+    "361": "Automaattinen määritys",
+    "362": "Automaattisen määrityksen tulisi pysyä käytössä, kun käytät jotakin valmiista käyttöjärjestelmistä, koska se varmistaa, että olennaiset verkkoasetukset ja määritykset otetaan käyttöön automaattisesti. Jos olet kuitenkin asentanut mukautetun käyttöjärjestelmän, voit poistaa automaattisen määrityksen käytöstä ja määrittää tarvittavat asetukset palvelimessa manuaalisesti tarpeidesi mukaan.",
+    "363": "Ei mitään",
+    "364": "Vaihda tilaa",
+    "365": "Vaihtotila toimii varmuuskopiomuistina ja estää kaatumisia, kun järjestelmästä loppuu fyysinen muisti. Vaikka vaihtotila on hitaampi kuin fyysinen muisti, se auttaa ylläpitämään järjestelmän vakautta ja sujuvaa toimintaa. Muista, että valitsemasi vaihtotilan määrä varataan tallennuslevyllesi.",
+    "366": "Näytä kaikki vaihtoehdot"
 }

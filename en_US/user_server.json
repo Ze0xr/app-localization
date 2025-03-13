@@ -348,5 +348,19 @@
     "349": "Save",
     "350": "The next sequential address will be assigned to the server.",
     "351": "Assign",
-    "352": "Enter an address"
+    "352": "Enter an address",
+    "353": "Settings",
+    "354": "Boot Type",
+    "355": "BIOS (Legacy Mode)",
+    "356": "UEFI",
+    "357": "This is the older boot method that relies on the Basic Input\/Output System. It uses the Master Boot Record (MBR) for disk partitioning and is compatible with older operating systems and hardware.",
+    "358": "This is the modern replacement for BIOS. It supports GUID Partition Table (GPT), allowing for larger disk sizes and more partitions.",
+    "359": "Settings updated. A restart is required to apply the changes to the server.",
+    "360": "An error occurred. Settings could not be updated.",
+    "361": "Auto Configuration",
+    "362": "Auto Configuration should remain enabled when using one of the prebuilt operating systems, as it ensures that essential network settings and configurations are applied automatically. However, if you have installed a custom operating system, you may choose to disable Auto Configuration and manually configure the necessary settings within the server to suit your specific requirements.",
+    "363": "None",
+    "364": "Swap Space",
+    "365": "Swap space acts as backup memory, preventing crashes when your system runs out of physical memory. Although swap space is slower than physical memory, it helps maintain system stability and smooth operation. Keep in mind that the amount of swap space you choose will be reserved on your storage disk.",
+    "366": "View all Options"
 }

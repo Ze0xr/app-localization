@@ -348,5 +348,19 @@
     "349": "Zapisz",
     "350": "Następny adres sekwencyjny zostanie przypisany do serwera.",
     "351": "Przypisanie",
-    "352": "Wprowadź adres"
+    "352": "Wprowadź adres",
+    "353": "Ustawienia",
+    "354": "Typ łodzi",
+    "355": "BIOS (tryb starszy)",
+    "356": "UEFI",
+    "357": "Jest to starsza metoda rozruchu, która opiera się na podstawowym systemie wejścia\/wyjścia. Wykorzystuje ona główny rekord rozruchowy (MBR) do partycjonowania dysku i jest kompatybilna ze starszymi systemami operacyjnymi i sprzętem.",
+    "358": "Jest to nowoczesny zamiennik BIOS-u. Obsługuje tablicę partycji GUID (GPT), pozwalając na większe rozmiary dysków i więcej partycji.",
+    "359": "Do zastosowania zmian na serwerze wymagane jest ponowne uruchomienie.",
+    "360": "Wystąpił błąd. Nie można zaktualizować ustawień.",
+    "361": "Automatyczna konfiguracja",
+    "362": "Automatyczna konfiguracja powinna pozostać włączona w przypadku korzystania z jednego z gotowych systemów operacyjnych, ponieważ zapewnia automatyczne stosowanie niezbędnych ustawień sieciowych i konfiguracji. Jeśli jednak zainstalowałeś niestandardowy system operacyjny, możesz wyłączyć automatyczną konfigurację i ręcznie skonfigurować niezbędne ustawienia na serwerze, aby spełnić określone wymagania.",
+    "363": "Brak",
+    "364": "Swap Space",
+    "365": "Przestrzeń wymiany działa jako pamięć zapasowa, zapobiegając awariom, gdy w systemie zabraknie pamięci fizycznej. Chociaż przestrzeń wymiany jest wolniejsza niż pamięć fizyczna, pomaga utrzymać stabilność systemu i płynne działanie. Należy pamiętać, że wybrana ilość przestrzeni wymiany zostanie zarezerwowana na dysku.",
+    "366": "Wyświetl wszystkie opcje"
 }

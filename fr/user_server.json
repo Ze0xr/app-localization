@@ -348,5 +348,19 @@
     "349": "Économiser",
     "350": "L'adresse séquentielle suivante sera attribuée au serveur.",
     "351": "Attribuer",
-    "352": "Saisir une adresse"
+    "352": "Saisir une adresse",
+    "353": "Paramètres",
+    "354": "Type de bateau",
+    "355": "BIOS (mode hérité)",
+    "356": "UEFI",
+    "357": "Il s'agit de l'ancienne méthode de démarrage qui repose sur le système d'entrée\/sortie de base. Elle utilise le Master Boot Record (MBR) pour le partitionnement du disque et est compatible avec les anciens systèmes d'exploitation et le matériel.",
+    "358": "C'est le remplaçant moderne du BIOS. Il prend en charge la table de partition GUID (GPT), ce qui permet d'avoir des disques plus grands et plus de partitions.",
+    "359": "Un redémarrage est nécessaire pour appliquer les modifications au serveur.",
+    "360": "Une erreur s'est produite, les paramètres n'ont pas pu être mis à jour.",
+    "361": "Configuration automatique",
+    "362": "La configuration automatique doit rester activée si vous utilisez l'un des systèmes d'exploitation prédéfinis, car elle garantit que les paramètres et configurations essentiels du réseau sont appliqués automatiquement. Toutefois, si vous avez installé un système d'exploitation personnalisé, vous pouvez choisir de désactiver la configuration automatique et de configurer manuellement les paramètres nécessaires au sein du serveur afin de répondre à vos besoins spécifiques.",
+    "363": "Aucun",
+    "364": "Espace d'échange",
+    "365": "L'espace de pagination agit comme une mémoire de secours, évitant les pannes lorsque votre système est à court de mémoire physique. Bien que l'espace de pagination soit plus lent que la mémoire physique, il contribue à maintenir la stabilité et le bon fonctionnement du système. Gardez à l'esprit que la quantité d'espace de pagination que vous choisissez sera réservée sur votre disque de stockage.",
+    "366": "Voir toutes les options"
 }

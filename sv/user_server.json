@@ -348,5 +348,19 @@
     "349": "Spara",
     "350": "Nästa sekventiella adress kommer att tilldelas servern.",
     "351": "Tilldela",
-    "352": "Ange en adress"
+    "352": "Ange en adress",
+    "353": "Inställningar",
+    "354": "Typ av stövel",
+    "355": "BIOS (äldre läge)",
+    "356": "UEFI",
+    "357": "Detta är den äldre startmetoden som bygger på Basic Input\/Output System. Den använder Master Boot Record (MBR) för diskpartitionering och är kompatibel med äldre operativsystem och hårdvara.",
+    "358": "Detta är den moderna ersättningen för BIOS. Den stöder GUID Partition Table (GPT), vilket möjliggör större diskstorlekar och fler partitioner.",
+    "359": "Inställningar uppdaterade. En omstart krävs för att tillämpa ändringarna på servern.",
+    "360": "Ett fel inträffade. Inställningarna kunde inte uppdateras.",
+    "361": "Automatisk konfiguration",
+    "362": "Automatisk konfiguration bör förbli aktiverad när du använder ett av de förbyggda operativsystemen, eftersom det säkerställer att viktiga nätverksinställningar och konfigurationer tillämpas automatiskt. Men om du har installerat ett anpassat operativsystem kan du välja att inaktivera automatisk konfiguration och manuellt konfigurera nödvändiga inställningar på servern för att passa dina specifika krav.",
+    "363": "Ingen",
+    "364": "Byt utrymme",
+    "365": "Växlingsutrymme fungerar som säkerhetskopieringsminne och förhindrar kraschar när ditt system tar slut på fysiskt minne. Även om växlingsutrymmet är långsammare än fysiskt minne, hjälper det till att upprätthålla systemstabilitet och smidig drift. Tänk på att mängden bytutrymme du väljer kommer att reserveras på din lagringsdisk.",
+    "366": "Visa alla alternativ"
 }

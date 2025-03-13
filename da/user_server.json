@@ -348,5 +348,19 @@
     "349": "Gemme",
     "350": "Den næste sekventielle adresse vil blive tildelt serveren.",
     "351": "Tildel",
-    "352": "Indtast en adresse"
+    "352": "Indtast en adresse",
+    "353": "Indstillinger",
+    "354": "Bådtype",
+    "355": "BIOS (ældre tilstand)",
+    "356": "UEFI",
+    "357": "Dette er den ældre opstartsmetode, der er afhængig af Basic Input\/Output System. Den bruger Master Boot Record (MBR) til diskpartitionering og er kompatibel med ældre operativsystemer og hardware.",
+    "358": "Dette er den moderne erstatning for BIOS. Den understøtter GUID Partition Table (GPT), hvilket giver mulighed for større diskstørrelser og flere partitioner.",
+    "359": "Indstillingerne er opdateret. Der kræves en genstart for at anvende ændringerne på serveren.",
+    "360": "Der opstod en fejl, og indstillingerne kunne ikke opdateres.",
+    "361": "Automatisk konfiguration",
+    "362": "Automatisk konfiguration bør forblive aktiveret, når du bruger et af de forudbyggede operativsystemer, da det sikrer, at vigtige netværksindstillinger og konfigurationer anvendes automatisk. Men hvis du har installeret et brugerdefineret operativsystem, kan du vælge at deaktivere automatisk konfiguration og manuelt konfigurere de nødvendige indstillinger på serveren, så de passer til dine specifikke krav.",
+    "363": "Ingen",
+    "364": "Byt plads",
+    "365": "Swap-plads fungerer som backup-hukommelse og forhindrer nedbrud, når dit system løber tør for fysisk hukommelse. Selvom swap-plads er langsommere end fysisk hukommelse, hjælper det med at opretholde systemets stabilitet og smidige drift. Husk, at den mængde swap-plads, du vælger, vil blive reserveret på din lagerdisk.",
+    "366": "Se alle muligheder"
 }
